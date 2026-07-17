@@ -1,0 +1,451 @@
+/* ==========================================================================
+   1. CẤU HÌNH HỆ THỐNG & RESET CHUNG
+   ========================================================================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: #111111;
+  color: #dddddd;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Khung bọc bao quanh toàn trang website */
+.container {
+  width: 85%;
+  margin: auto;
+  background-color: #1c1c1c;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+.banner img {
+  width: 100%;
+  display: block;
+}
+
+/* ==========================================================================
+   2. THANH MENU DÙNG CHUNG ĐỒNG NHẤT
+   ========================================================================== */
+.menu {
+  background-color: #000000;
+  padding: 15px;
+  text-align: center;
+  border-bottom: 3px solid #c0392b;
+}
+
+.menu a {
+  color: #ffffff;
+  margin: 0 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 8px 16px;
+  border-radius: 4px;
+  transition: 0.3s;
+}
+
+.menu a:hover,
+.menu a.active {
+  background-color: #c0392b;
+  color: #ffffff;
+}
+
+/* Tiêu đề các mục lớn dạng khối thể thao (dùng ở mọi trang) */
+.section-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-left: 5px solid #c0392b;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+/* ==========================================================================
+   3. LAYOUT CHÍNH DÙNG CHUNG (Flexbox)
+   ========================================================================== */
+.main-layout {
+  display: flex;
+  gap: 25px;
+  max-width: 1200px;
+  margin: 25px auto;
+  padding: 0 20px;
+}
+
+main {
+  flex: 3;
+}
+
+.sidebar {
+  flex: 1;
+}
+
+/* Widget dùng chung cho sidebar (BXH, Vua phá lưới...) */
+.sidebar-box {
+  background-color: #2a2a2a;
+  border: 1px solid #333333;
+  border-radius: 6px;
+  padding: 20px;
+  margin-bottom: 25px;
+}
+
+.widget-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  font-size: 13.5px;
+}
+
+.widget-table th,
+.widget-table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #333333;
+}
+
+.widget-table th {
+  color: #c0392b;
+}
+
+.widget-table td.team-cell {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 6px;
+}
+
+.widget-table td.team-cell img {
+  width: 16px;
+  height: 16px;
+}
+
+.widget-table tr.relegation td {
+  background-color: rgba(231, 76, 60, 0.15);
+  color: #ff7675;
+}
+
+.btn-more {
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 13px;
+  color: #ffffff;
+  background-color: #c0392b;
+  padding: 6px 12px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  cursor: pointer;
+  border: none;
+}
+
+/* ==========================================================================
+   3b. Ô TÌM KIẾM DÙNG CHUNG (giải đấu / đội bóng / cầu thủ)
+   ========================================================================== */
+.search-box {
+  position: relative;
+  max-width: 1200px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.search-box input[type="text"] {
+  flex: 1;
+  min-width: 220px;
+  background-color: #2a2a2a;
+  border: 1px solid #3a3a3a;
+  color: #ffffff;
+  padding: 10px 14px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.search-box input[type="text"]:focus {
+  outline: none;
+  border-color: #c0392b;
+}
+
+.search-results {
+  position: absolute;
+  top: 46px;
+  left: 20px;
+  right: 20px;
+  background-color: #232323;
+  border: 1px solid #3a3a3a;
+  border-radius: 4px;
+  z-index: 20;
+  display: none;
+  max-height: 360px;
+  overflow-y: auto;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+.search-results.open {
+  display: block;
+}
+
+.search-group-label {
+  padding: 8px 14px 4px;
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #c0392b;
+}
+
+.search-result-item {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  border-top: 1px solid #2f2f2f;
+  color: #dddddd;
+  padding: 10px 14px;
+  font-size: 13.5px;
+  cursor: pointer;
+}
+
+.search-result-item:hover {
+  background-color: #2f2f2f;
+}
+
+.search-result-sub {
+  display: block;
+  font-size: 11px;
+  color: #999999;
+  margin-top: 2px;
+}
+
+.search-empty {
+  padding: 14px;
+  font-size: 13px;
+  color: #888888;
+}
+
+/* ==========================================================================
+   4. FOOTER DÙNG CHUNG ĐỒNG NHẤT
+   ========================================================================== */
+footer {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px;
+  font-size: 13px;
+  margin-top: 40px;
+  border-top: 2px solid #333333;
+}
+
+/* Thanh điều hướng trang (phân trang) dùng chung cho các danh sách dài */
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  margin: 18px 0 8px;
+}
+.page-btn {
+  min-width: 34px;
+  height: 34px;
+  padding: 0 10px;
+  border: 1px solid #ddd;
+  background: #fff;
+  color: #333;
+  border-radius: 6px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.page-btn:hover:not(:disabled) {
+  background: #f0f0f0;
+}
+.page-btn.active {
+  background: #e74c3c;
+  border-color: #e74c3c;
+  color: #fff;
+  font-weight: 600;
+}
+.page-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+.page-ellipsis {
+  padding: 0 4px;
+  color: #999;
+}
+.content-dark .page-btn {
+  background: #1c1c1c;
+  border-color: #333;
+  color: #ddd;
+}
+.content-dark .page-btn:hover:not(:disabled) {
+  background: #2a2a2a;
+}
+.content-dark .page-ellipsis {
+  color: #777;
+}
+
+/* ==========================================================================
+ * 5. LOGO / HUY HIỆU ĐỘI BÓNG DÙNG CHUNG (trận đấu, thống kê ấn tượng...)
+ * ========================================================================== */
+.team-logo-badge {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  object-fit: contain;
+  background-color: #ffffff;
+  padding: 2px;
+  flex-shrink: 0;
+  vertical-align: middle;
+}
+
+.team-logo-badge.is-fallback {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #111111;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 9px;
+  border: 1px solid #c0392b;
+  padding: 0;
+}
+
+/* ==========================================================================
+ * 6. MODAL "XEM CHI TIẾT TIN TỨC" DÙNG CHUNG
+ * ========================================================================== */
+.news-card {
+  cursor: pointer;
+}
+
+.news-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: none;
+}
+
+.news-modal.open {
+  display: block;
+}
+
+.news-modal-overlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+.news-modal-content {
+  position: relative;
+  max-width: 640px;
+  margin: 40px auto;
+  max-height: calc(100vh - 80px);
+  overflow-y: auto;
+  background-color: #1c1c1c;
+  border: 1px solid #333333;
+  border-radius: 8px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
+}
+
+.news-modal-close {
+  position: absolute;
+  top: 8px;
+  right: 12px;
+  background: none;
+  border: none;
+  color: #ffffff;
+  font-size: 28px;
+  line-height: 1;
+  cursor: pointer;
+  z-index: 2;
+}
+
+.news-modal-image {
+  background-color: #3a3a3a;
+  max-height: 320px;
+  overflow: hidden;
+}
+
+.news-modal-image img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+  max-height: 320px;
+}
+
+.news-modal-body {
+  padding: 20px 24px 26px;
+}
+
+.news-modal-category {
+  font-size: 11px;
+  font-weight: bold;
+  color: #c0392b;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.news-modal-title {
+  font-size: 20px;
+  color: #ffffff;
+  margin-bottom: 8px;
+  line-height: 1.35;
+}
+
+.news-modal-time {
+  font-size: 12px;
+  color: #888888;
+  margin-bottom: 16px;
+}
+
+.news-modal-desc {
+  font-size: 14.5px;
+  color: #cccccc;
+  line-height: 1.7;
+}
+
+body.modal-open {
+  overflow: hidden;
+}
+
+/* ==========================================================================
+ * 7. Ô CHỌN GIẢI ĐẤU DÙNG CHUNG (vd trang Thông tin ấn tượng)
+ * ========================================================================== */
+.league-select-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 18px;
+  flex-wrap: wrap;
+}
+
+.league-select-wrap label {
+  font-size: 13px;
+  color: #aaaaaa;
+}
+
+.league-select {
+  background-color: #2a2a2a;
+  border: 1px solid #3a3a3a;
+  color: #ffffff;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 13.5px;
+  cursor: pointer;
+}
+
+.league-select:focus {
+  outline: none;
+  border-color: #c0392b;
+}

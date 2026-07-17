@@ -1,0 +1,170 @@
+[
+ {
+  "number": 9,
+  "name": "Erling Haaland",
+  "nation": "Na Uy",
+  "team": "Manchester City",
+  "leagueId": "premier-league"
+ },
+ {
+  "number": 7,
+  "name": "Bukayo Saka",
+  "nation": "Anh",
+  "team": "Arsenal",
+  "leagueId": "premier-league"
+ },
+ {
+  "number": 10,
+  "name": "Cole Palmer",
+  "nation": "Anh",
+  "team": "Chelsea",
+  "leagueId": "premier-league"
+ },
+ {
+  "number": 17,
+  "name": "Florian Wirtz",
+  "nation": "Đức",
+  "team": "Liverpool",
+  "leagueId": "premier-league"
+ },
+ {
+  "number": 9,
+  "name": "Kylian Mbappé",
+  "nation": "Pháp",
+  "team": "Real Madrid",
+  "leagueId": "la-liga"
+ },
+ {
+  "number": 19,
+  "name": "Lamine Yamal",
+  "nation": "Tây Ban Nha",
+  "team": "Barcelona",
+  "leagueId": "la-liga"
+ },
+ {
+  "number": 9,
+  "name": "Robert Lewandowski",
+  "nation": "Ba Lan",
+  "team": "Barcelona",
+  "leagueId": "la-liga"
+ },
+ {
+  "number": 7,
+  "name": "Antoine Griezmann",
+  "nation": "Pháp",
+  "team": "Atlético Madrid",
+  "leagueId": "la-liga"
+ },
+ {
+  "number": 10,
+  "name": "Lautaro Martínez",
+  "nation": "Argentina",
+  "team": "Inter Milan",
+  "leagueId": "serie-a"
+ },
+ {
+  "number": 90,
+  "name": "Dušan Vlahović",
+  "nation": "Serbia",
+  "team": "Juventus",
+  "leagueId": "serie-a"
+ },
+ {
+  "number": 11,
+  "name": "Rafael Leão",
+  "nation": "Bồ Đào Nha",
+  "team": "AC Milan",
+  "leagueId": "serie-a"
+ },
+ {
+  "number": 9,
+  "name": "Harry Kane",
+  "nation": "Anh",
+  "team": "Bayern Munich",
+  "leagueId": "bundesliga"
+ },
+ {
+  "number": 25,
+  "name": "Jamal Musiala",
+  "nation": "Đức",
+  "team": "Bayern Munich",
+  "leagueId": "bundesliga"
+ },
+ {
+  "number": 9,
+  "name": "Serhou Guirassy",
+  "nation": "Guinea",
+  "team": "Borussia Dortmund",
+  "leagueId": "bundesliga"
+ },
+ {
+  "number": 7,
+  "name": "Ousmane Dembélé",
+  "nation": "Pháp",
+  "team": "Paris Saint-Germain",
+  "leagueId": "ligue-1"
+ },
+ {
+  "number": 10,
+  "name": "Khvicha Kvaratskhelia",
+  "nation": "Gruzia",
+  "team": "Paris Saint-Germain",
+  "leagueId": "ligue-1"
+ },
+ {
+  "number": 9,
+  "name": "Pierre-Emerick Aubameyang",
+  "nation": "Gabon",
+  "team": "Marseille",
+  "leagueId": "ligue-1"
+ },
+ {
+  "number": 9,
+  "name": "Nguyễn Xuân Son",
+  "nation": "Việt Nam",
+  "team": "Nam Định",
+  "leagueId": "v-league"
+ },
+ {
+  "number": 19,
+  "name": "Nguyễn Tiến Linh",
+  "nation": "Việt Nam",
+  "team": "Bình Dương",
+  "leagueId": "v-league"
+ },
+ {
+  "number": 10,
+  "name": "Lionel Messi",
+  "nation": "Argentina",
+  "team": "Đội tuyển Argentina",
+  "leagueId": "world-cup"
+ },
+ {
+  "number": 9,
+  "name": "Kylian Mbappé",
+  "nation": "Pháp",
+  "team": "Đội tuyển Pháp",
+  "leagueId": "world-cup"
+ },
+ {
+  "number": 9,
+  "name": "Harry Kane",
+  "nation": "Anh",
+  "team": "Đội tuyển Anh",
+  "leagueId": "world-cup"
+ },
+ {
+  "number": 19,
+  "name": "Lamine Yamal",
+  "nation": "Tây Ban Nha",
+  "team": "Đội tuyển Tây Ban Nha",
+  "leagueId": "world-cup"
+ },
+ {
+  "number": 10,
+  "name": "Lautaro Martínez",
+  "nation": "Argentina",
+  "team": "Đội tuyển Argentina",
+  "leagueId": "world-cup"
+ }
+]

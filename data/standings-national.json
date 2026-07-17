@@ -1,0 +1,22 @@
+[
+  { "rank": 1, "team": "Argentina", "points": 1893, "logo": "https://flagcdn.com/w80/ar.png" },
+  { "rank": 2, "team": "Pháp", "points": 1862, "logo": "https://flagcdn.com/w80/fr.png" },
+  { "rank": 3, "team": "Tây Ban Nha", "points": 1854, "logo": "https://flagcdn.com/w80/es.png" },
+  { "rank": 4, "team": "Anh", "points": 1831, "logo": "https://flagcdn.com/w80/gb-eng.png" },
+  { "rank": 5, "team": "Brazil", "points": 1798, "logo": "https://flagcdn.com/w80/br.png" },
+  { "rank": 6, "team": "Bồ Đào Nha", "points": 1774, "logo": "https://flagcdn.com/w80/pt.png" },
+  { "rank": 7, "team": "Hà Lan", "points": 1751, "logo": "https://flagcdn.com/w80/nl.png" },
+  { "rank": 8, "team": "Bỉ", "points": 1738, "logo": "https://flagcdn.com/w80/be.png" },
+  { "rank": 9, "team": "Đức", "points": 1719, "logo": "https://flagcdn.com/w80/de.png" },
+  { "rank": 10, "team": "Ý", "points": 1701, "logo": "https://flagcdn.com/w80/it.png" },
+  { "rank": 11, "team": "Croatia", "points": 1683, "logo": "https://flagcdn.com/w80/hr.png" },
+  { "rank": 12, "team": "Morocco", "points": 1668, "logo": "https://flagcdn.com/w80/ma.png" },
+  { "rank": 13, "team": "Mỹ", "points": 1652, "logo": "https://flagcdn.com/w80/us.png" },
+  { "rank": 14, "team": "Colombia", "points": 1639, "logo": "https://flagcdn.com/w80/co.png" },
+  { "rank": 15, "team": "Nhật Bản", "points": 1624, "logo": "https://flagcdn.com/w80/jp.png" },
+  { "rank": 16, "team": "Senegal", "points": 1611, "logo": "https://flagcdn.com/w80/sn.png" },
+  { "rank": 17, "team": "Hàn Quốc", "points": 1597, "logo": "https://flagcdn.com/w80/kr.png" },
+  { "rank": 18, "team": "Mexico", "points": 1583, "logo": "https://flagcdn.com/w80/mx.png" },
+  { "rank": 19, "team": "Thụy Sĩ", "points": 1569, "logo": "https://flagcdn.com/w80/ch.png" },
+  { "rank": 20, "team": "Na Uy", "points": 1552, "logo": "https://flagcdn.com/w80/no.png" }
+]

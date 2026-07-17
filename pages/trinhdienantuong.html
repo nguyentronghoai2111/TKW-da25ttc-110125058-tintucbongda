@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trình diễn ấn tượng - Tin tức bóng đá</title>
+  <link rel="stylesheet" href="../assets/css/unified-styles.css">
+  <link rel="stylesheet" href="../assets/css/pages/showcase.css">
+</head>
+<body>
+
+  <div class="container">
+    <div class="banner">
+      <img src="../assets/img/anhbongda.png" alt="Banner bóng đá">
+    </div>
+
+    <div class="menu">
+      <a href="../index.html">Trang chủ</a>
+      <a href="cactrandauvuaqua.html">Các trận đấu vừa qua</a>
+      <a href="thongtinantuong.html">Thông tin ấn tượng</a>
+      <a class="active" href="trinhdienantuong.html">Trình diễn ấn tượng</a>
+      <a href="gioithieu.html">Giới thiệu</a>
+      <a href="lienhe.html">Liên hệ</a>
+    </div>
+
+    <div class="content-dark">
+      <h1 class="page-header-title">Trình Diễn Ấn Tượng</h1>
+      <p class="page-header-desc">Tổng hợp siêu phẩm mãn nhãn và đẳng cấp nhất sân cỏ thế giới</p>
+
+      <h2 class="section-title">Lịch thi đấu sắp tới</h2>
+      <div class="upcoming-list" id="upcoming-fixtures"></div>
+
+      <div class="main-showcase-layout">
+        <div class="filter-buttons-vertical">
+          <button class="active" data-filter="all">Tất Cả</button>
+          <button data-filter="goal">Bàn Thắng Đẹp (Goals)</button>
+          <button data-filter="skill">Kỹ Thuật (Skills)</button>
+          <button data-filter="save">Cứu Thua Xuất Sắc</button>
+        </div>
+
+        <main class="showcase-grid" id="showcase-grid"></main>
+      </div>
+    </div>
+
+    <footer>
+      <p>&copy; 2026 Trang Tin Tức Bóng Đá</p>
+    </footer>
+  </div>
+
+  <script src="../assets/js/data.js"></script>
+  <script src="../assets/js/main.js"></script>
+  <script src="../assets/js/pages/showcase.js"></script>
+</body>
+</html>

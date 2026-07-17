@@ -1,0 +1,80 @@
+[
+  {
+    "id": "premier-league",
+    "apiLeagueId": 39,
+    "name": "Ngoại Hạng Anh",
+    "shortName": "Premier League",
+    "country": "Anh",
+    "logo": "https://media.api-sports.io/football/leagues/39.png"
+  },
+  {
+    "id": "la-liga",
+    "apiLeagueId": 140,
+    "name": "La Liga",
+    "shortName": "La Liga",
+    "country": "Tây Ban Nha",
+    "logo": "https://media.api-sports.io/football/leagues/140.png"
+  },
+  {
+    "id": "serie-a",
+    "apiLeagueId": 135,
+    "name": "Serie A",
+    "shortName": "Serie A",
+    "country": "Ý",
+    "logo": "https://media.api-sports.io/football/leagues/135.png"
+  },
+  {
+    "id": "bundesliga",
+    "apiLeagueId": 78,
+    "name": "Bundesliga",
+    "shortName": "Bundesliga",
+    "country": "Đức",
+    "logo": "https://media.api-sports.io/football/leagues/78.png"
+  },
+  {
+    "id": "ligue-1",
+    "apiLeagueId": 61,
+    "name": "Ligue 1",
+    "shortName": "Ligue 1",
+    "country": "Pháp",
+    "logo": "https://media.api-sports.io/football/leagues/61.png"
+  },
+  {
+    "id": "v-league",
+    "apiLeagueId": 340,
+    "name": "V.League 1",
+    "shortName": "V.League 1",
+    "country": "Việt Nam",
+    "logo": "https://media.api-sports.io/football/leagues/340.png"
+  },
+  {
+    "id": "champions-league",
+    "apiLeagueId": 2,
+    "name": "UEFA Champions League",
+    "shortName": "Champions League",
+    "country": "Châu Âu",
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+  },
+  {
+    "id": "world-cup",
+    "apiLeagueId": 1,
+    "name": "World Cup 2026",
+    "shortName": "World Cup",
+    "country": "Quốc tế",
+    "logo": "https://media.api-sports.io/football/leagues/1.png"
+  },
+  {
+    "id": "vietnam",
+    "name": "Đội tuyển Việt Nam",
+    "shortName": "ĐT Việt Nam",
+    "country": "Việt Nam",
+    "logo": ""
+  },
+  {
+    "id": "asean-cup",
+    "name": "ASEAN Cup 2026",
+    "shortName": "ASEAN Cup",
+    "country": "Đông Nam Á",
+    "logo": ""
+  }
+]

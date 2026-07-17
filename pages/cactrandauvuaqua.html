@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Các trận đấu vừa qua - Tin tức bóng đá</title>
+  <link rel="stylesheet" href="../assets/css/unified-styles.css">
+  <link rel="stylesheet" href="../assets/css/pages/matches.css">
+</head>
+<body>
+
+  <div class="container">
+    <div class="banner">
+      <img src="../assets/img/anhbongda.png" alt="Banner bóng đá">
+    </div>
+
+    <div class="menu">
+      <a href="../index.html">Trang chủ</a>
+      <a class="active" href="cactrandauvuaqua.html">Các trận đấu vừa qua</a>
+      <a href="thongtinantuong.html">Thông tin ấn tượng</a>
+      <a href="trinhdienantuong.html">Trình diễn ấn tượng</a>
+      <a href="gioithieu.html">Giới thiệu</a>
+      <a href="lienhe.html">Liên hệ</a>
+    </div>
+
+    <div class="search-box">
+      <input type="text" id="filter-input" autocomplete="off" placeholder="Lọc theo giải đấu, đội bóng hoặc cầu thủ...">
+    </div>
+
+    <div class="main-container">
+      <div class="left-column">
+        <h2 class="section-title">Kết quả gần đây - Tất cả giải đấu</h2>
+        <div id="match-list"></div>
+        <div class="pagination" id="match-pagination"></div>
+      </div>
+
+      <div class="right-column">
+        <h2 class="section-title">Ngôi Sao Tiêu Biểu</h2>
+        <div id="player-list"></div>
+      </div>
+    </div>
+
+    <footer>
+      <p>&copy; 2026 Trang Tin Tức Bóng Đá</p>
+    </footer>
+  </div>
+
+  <script src="../assets/js/data.js"></script>
+  <script src="../assets/js/main.js"></script>
+  <script src="../assets/js/pages/matches.js"></script>
+</body>
+</html>

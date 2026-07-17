@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thông tin ấn tượng - Tin tức bóng đá</title>
+  <link rel="stylesheet" href="../assets/css/unified-styles.css">
+  <link rel="stylesheet" href="../assets/css/pages/home.css">
+</head>
+<body>
+
+  <div class="container">
+    <div class="banner">
+      <img src="../assets/img/anhbongda.png" alt="Banner bóng đá">
+    </div>
+
+    <div class="menu">
+      <a href="../index.html">Trang chủ</a>
+      <a href="cactrandauvuaqua.html">Các trận đấu vừa qua</a>
+      <a class="active" href="thongtinantuong.html">Thông tin ấn tượng</a>
+      <a href="trinhdienantuong.html">Trình diễn ấn tượng</a>
+      <a href="gioithieu.html">Giới thiệu</a>
+      <a href="lienhe.html">Liên hệ</a>
+    </div>
+
+    <div class="main-layout">
+      <div style="width:100%;">
+        <h2 class="section-title">Thống kê ấn tượng<span id="impressive-league-name"></span></h2>
+        <div class="league-select-wrap">
+          <label for="impressive-league-select">Chọn giải đấu:</label>
+          <select id="impressive-league-select" class="league-select"></select>
+        </div>
+        <div class="stats-grid" id="impressive-stats"></div>
+
+        <h2 class="section-title" style="margin-top: 30px;">Tin tức ấn tượng</h2>
+        <div class="news-grid" id="news-grid"></div>
+        <div class="pagination" id="news-pagination"></div>
+      </div>
+    </div>
+
+    <footer>
+      <p>&copy; 2026 Trang Tin Tức Bóng Đá</p>
+    </footer>
+  </div>
+
+  <script src="../assets/js/data.js"></script>
+  <script src="../assets/js/main.js"></script>
+  <script src="../assets/js/pages/impressive.js"></script>
+</body>
+</html>

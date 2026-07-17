@@ -1,0 +1,37 @@
+[
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (Tranh hạng Ba)",
+  "home": "Pháp",
+  "away": "Anh",
+  "kickoff": "18/07 (giờ VN, dự kiến)"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (Chung kết)",
+  "home": "Tây Ban Nha",
+  "away": "Argentina",
+  "kickoff": "19/07 (giờ VN, dự kiến)"
+ },
+ {
+  "leagueId": "vietnam",
+  "competition": "Giao hữu quốc tế",
+  "home": "Việt Nam",
+  "away": "Myanmar",
+  "kickoff": "18/07 tại Thái Nguyên"
+ },
+ {
+  "leagueId": "asean-cup",
+  "competition": "ASEAN Cup 2026 (vòng bảng)",
+  "home": "Việt Nam",
+  "away": "Singapore",
+  "kickoff": "31/07 tại Mỹ Đình"
+ },
+ {
+  "leagueId": "asean-cup",
+  "competition": "ASEAN Cup 2026 (vòng bảng)",
+  "home": "Việt Nam",
+  "away": "Campuchia",
+  "kickoff": "07/08 tại Mỹ Đình"
+ }
+]

@@ -1,0 +1,150 @@
+.main-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 30px 20px;
+  display: flex;
+  gap: 30px;
+}
+
+.left-column {
+  flex: 2;
+}
+
+.right-column {
+  flex: 1;
+  background: #222222;
+  padding: 20px;
+  border-radius: 6px;
+}
+
+.match-card {
+  background-color: #2a2a2a;
+  border-radius: 6px;
+  padding: 15px 20px;
+  margin-bottom: 15px;
+  border: 1px solid #333333;
+  transition: 0.2s;
+}
+
+.match-card:hover {
+  border-color: #c0392b;
+  transform: translateX(3px);
+}
+
+.competition-title {
+  font-size: 11px;
+  color: #c0392b;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.match-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.team-side {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 40%;
+}
+
+.team-side.home {
+  justify-content: flex-end;
+}
+
+.team-side.away {
+  justify-content: flex-start;
+}
+
+.competition-title + .match-date {
+  font-size: 10.5px;
+  color: #777777;
+  margin-top: -6px;
+  margin-bottom: 10px;
+}
+
+.team-name {
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.team-badge {
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  border-radius: 50%;
+  background-color: #111111;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 12px;
+  text-align: center;
+  border: 1px solid #c0392b;
+}
+
+.team-side.home .team-badge {
+  margin-left: 12px;
+}
+
+.team-side.away .team-badge {
+  margin-right: 12px;
+}
+
+.status {
+  font-size: 10px;
+  color: #ffffff;
+  background-color: #c0392b;
+  padding: 1px 6px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+.score-side {
+  width: 20%;
+  text-align: center;
+}
+
+.score-side .score {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.player-row {
+  display: flex;
+  align-items: center;
+  background: #1a1a1a;
+  border: 1px solid #333333;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  transition: 0.2s;
+}
+
+.player-row:hover {
+  border-color: #c0392b;
+  background-color: #111111;
+}
+
+.player-number {
+  font-size: 20px;
+  font-weight: bold;
+  color: #c0392b;
+  width: 35px;
+  text-align: center;
+}
+
+.player-name {
+  font-weight: bold;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.player-nation {
+  font-size: 12px;
+  color: #aaaaaa;
+}

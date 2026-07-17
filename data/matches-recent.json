@@ -1,0 +1,3348 @@
+[
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Mexico",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Nam Phi",
+   "badge": "NP"
+  },
+  "score": "2 - 0",
+  "status": "KT · 11/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Hàn Quốc",
+   "badge": "HQ"
+  },
+  "away": {
+   "name": "Séc",
+   "badge": "S"
+  },
+  "score": "2 - 1",
+  "status": "KT · 11/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Séc",
+   "badge": "S"
+  },
+  "away": {
+   "name": "Nam Phi",
+   "badge": "NP"
+  },
+  "score": "1 - 1",
+  "status": "KT · 18/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Mexico",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Hàn Quốc",
+   "badge": "HQ"
+  },
+  "score": "1 - 0",
+  "status": "KT · 18/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Mexico",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Séc",
+   "badge": "S"
+  },
+  "score": "3 - 0",
+  "status": "KT · 24/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Nam Phi",
+   "badge": "NP"
+  },
+  "away": {
+   "name": "Hàn Quốc",
+   "badge": "HQ"
+  },
+  "score": "1 - 0",
+  "status": "KT · 24/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Canada",
+   "badge": "C"
+  },
+  "away": {
+   "name": "Bosnia và Herzegovina",
+   "badge": "BH"
+  },
+  "score": "1 - 1",
+  "status": "KT · 12/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Thụy Sĩ",
+   "badge": "TS"
+  },
+  "away": {
+   "name": "Qatar",
+   "badge": "Q"
+  },
+  "score": "1 - 1",
+  "status": "KT · 13/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Thụy Sĩ",
+   "badge": "TS"
+  },
+  "away": {
+   "name": "Bosnia và Herzegovina",
+   "badge": "BH"
+  },
+  "score": "4 - 1",
+  "status": "KT · 18/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Canada",
+   "badge": "C"
+  },
+  "away": {
+   "name": "Qatar",
+   "badge": "Q"
+  },
+  "score": "6 - 0",
+  "status": "KT · 18/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Thụy Sĩ",
+   "badge": "TS"
+  },
+  "away": {
+   "name": "Canada",
+   "badge": "C"
+  },
+  "score": "3 - 1",
+  "status": "KT · 24/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Canada",
+   "badge": "C"
+  },
+  "away": {
+   "name": "Nam Phi",
+   "badge": "NP"
+  },
+  "score": "1 - 0",
+  "status": "KT · 28/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Brazil",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Nhật Bản",
+   "badge": "NB"
+  },
+  "score": "2 - 1",
+  "status": "KT · 29/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (Paraguay thắng luân lưu 4-3)",
+  "home": {
+   "name": "Đức",
+   "badge": "Đ"
+  },
+  "away": {
+   "name": "Paraguay",
+   "badge": "P"
+  },
+  "score": "1 - 1",
+  "status": "KT · 29/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (Morocco thắng luân lưu 3-2)",
+  "home": {
+   "name": "Hà Lan",
+   "badge": "HL"
+  },
+  "away": {
+   "name": "Morocco",
+   "badge": "M"
+  },
+  "score": "1 - 1",
+  "status": "KT · 29/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Na Uy",
+   "badge": "NU"
+  },
+  "away": {
+   "name": "Bờ Biển Ngà",
+   "badge": "BBN"
+  },
+  "score": "2 - 1",
+  "status": "KT · 30/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Pháp",
+   "badge": "P"
+  },
+  "away": {
+   "name": "Thụy Điển",
+   "badge": "TĐ"
+  },
+  "score": "3 - 0",
+  "status": "KT · 30/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Mexico",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Ecuador",
+   "badge": "E"
+  },
+  "score": "2 - 0",
+  "status": "KT · 30/6/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Anh",
+   "badge": "A"
+  },
+  "away": {
+   "name": "CHDC Congo",
+   "badge": "CC"
+  },
+  "score": "2 - 1",
+  "status": "KT · 1/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (hiệp phụ)",
+  "home": {
+   "name": "Bỉ",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Senegal",
+   "badge": "S"
+  },
+  "score": "3 - 2",
+  "status": "KT · 1/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Mỹ",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Bosnia và Herzegovina",
+   "badge": "BH"
+  },
+  "score": "2 - 0",
+  "status": "KT · 1/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Tây Ban Nha",
+   "badge": "TBN"
+  },
+  "away": {
+   "name": "Áo",
+   "badge": "Á"
+  },
+  "score": "3 - 0",
+  "status": "KT · 2/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Bồ Đào Nha",
+   "badge": "BĐN"
+  },
+  "away": {
+   "name": "Croatia",
+   "badge": "C"
+  },
+  "score": "2 - 1",
+  "status": "KT · 2/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Thụy Sĩ",
+   "badge": "TS"
+  },
+  "away": {
+   "name": "Algeria",
+   "badge": "A"
+  },
+  "score": "2 - 0",
+  "status": "KT · 2/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (Ai Cập thắng luân lưu 4-2)",
+  "home": {
+   "name": "Ai Cập",
+   "badge": "AC"
+  },
+  "away": {
+   "name": "Australia",
+   "badge": "A"
+  },
+  "score": "1 - 1",
+  "status": "KT · 3/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (hiệp phụ)",
+  "home": {
+   "name": "Argentina",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Cape Verde",
+   "badge": "CV"
+  },
+  "score": "3 - 2",
+  "status": "KT · 3/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Colombia",
+   "badge": "C"
+  },
+  "away": {
+   "name": "Ghana",
+   "badge": "G"
+  },
+  "score": "1 - 0",
+  "status": "KT · 3/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Morocco",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Canada",
+   "badge": "C"
+  },
+  "score": "3 - 0",
+  "status": "KT · 4/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Pháp",
+   "badge": "P"
+  },
+  "away": {
+   "name": "Paraguay",
+   "badge": "P"
+  },
+  "score": "1 - 0",
+  "status": "KT · 4/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Na Uy",
+   "badge": "NU"
+  },
+  "away": {
+   "name": "Brazil",
+   "badge": "B"
+  },
+  "score": "2 - 1",
+  "status": "KT · 5/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Anh",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Mexico",
+   "badge": "M"
+  },
+  "score": "3 - 2",
+  "status": "KT · 5/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Tây Ban Nha",
+   "badge": "TBN"
+  },
+  "away": {
+   "name": "Bồ Đào Nha",
+   "badge": "BĐN"
+  },
+  "score": "1 - 0",
+  "status": "KT · 6/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Bỉ",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Mỹ",
+   "badge": "M"
+  },
+  "score": "4 - 1",
+  "status": "KT · 6/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Argentina",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Ai Cập",
+   "badge": "AC"
+  },
+  "score": "3 - 2",
+  "status": "KT · 7/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (Thụy Sĩ thắng luân lưu 4-3)",
+  "home": {
+   "name": "Thụy Sĩ",
+   "badge": "TS"
+  },
+  "away": {
+   "name": "Colombia",
+   "badge": "C"
+  },
+  "score": "0 - 0",
+  "status": "KT · 7/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Pháp",
+   "badge": "P"
+  },
+  "away": {
+   "name": "Morocco",
+   "badge": "M"
+  },
+  "score": "2 - 0",
+  "status": "KT · 9/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Tây Ban Nha",
+   "badge": "TBN"
+  },
+  "away": {
+   "name": "Bỉ",
+   "badge": "B"
+  },
+  "score": "2 - 1",
+  "status": "KT · 10/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (hiệp phụ)",
+  "home": {
+   "name": "Anh",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Na Uy",
+   "badge": "NU"
+  },
+  "score": "2 - 1",
+  "status": "KT · 11/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (hiệp phụ)",
+  "home": {
+   "name": "Argentina",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Thụy Sĩ",
+   "badge": "TS"
+  },
+  "score": "3 - 1",
+  "status": "KT · 11/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Tây Ban Nha",
+   "badge": "TBN"
+  },
+  "away": {
+   "name": "Pháp",
+   "badge": "P"
+  },
+  "score": "2 - 0",
+  "status": "KT · 14/7/2026"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026",
+  "home": {
+   "name": "Argentina",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Anh",
+   "badge": "A"
+  },
+  "score": "2 - 1",
+  "status": "KT · 15/7/2026"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Atalanta",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Club Brugge",
+   "badge": "CB"
+  },
+  "score": "2 - 1",
+  "status": "KT · 30/9/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Kairat Almaty",
+   "badge": "KA"
+  },
+  "away": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "score": "0 - 5",
+  "status": "KT · 30/9/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Atlético Madrid",
+   "badge": "AM"
+  },
+  "away": {
+   "name": "Frankfurt",
+   "badge": "F"
+  },
+  "score": "5 - 1",
+  "status": "KT · 30/9/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Chelsea",
+   "badge": "C"
+  },
+  "away": {
+   "name": "Benfica",
+   "badge": "B"
+  },
+  "score": "1 - 0",
+  "status": "KT · 30/9/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Inter",
+   "badge": "I"
+  },
+  "away": {
+   "name": "Slavia Praha",
+   "badge": "SP"
+  },
+  "score": "3 - 0",
+  "status": "KT · 30/9/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Galatasaray",
+   "badge": "G"
+  },
+  "away": {
+   "name": "Liverpool",
+   "badge": "L"
+  },
+  "score": "1 - 0",
+  "status": "KT · 30/9/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Marseille",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Ajax",
+   "badge": "A"
+  },
+  "score": "4 - 0",
+  "status": "KT · 30/9/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Pafos",
+   "badge": "P"
+  },
+  "away": {
+   "name": "Bayern München",
+   "badge": "BM"
+  },
+  "score": "1 - 5",
+  "status": "KT · 30/9/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Olympiacos",
+   "badge": "O"
+  },
+  "score": "6 - 1",
+  "status": "KT · 21/10/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Atlético Madrid",
+   "badge": "AM"
+  },
+  "score": "4 - 0",
+  "status": "KT · 21/10/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Leverkusen",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "score": "2 - 7",
+  "status": "KT · 21/10/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Copenhagen",
+   "badge": "C"
+  },
+  "away": {
+   "name": "Borussia Dortmund",
+   "badge": "BD"
+  },
+  "score": "2 - 4",
+  "status": "KT · 21/10/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "PSV Eindhoven",
+   "badge": "PE"
+  },
+  "away": {
+   "name": "Napoli",
+   "badge": "N"
+  },
+  "score": "6 - 2",
+  "status": "KT · 21/10/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Villarreal",
+   "badge": "V"
+  },
+  "away": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "score": "0 - 2",
+  "status": "KT · 21/10/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Chelsea",
+   "badge": "C"
+  },
+  "away": {
+   "name": "Ajax",
+   "badge": "A"
+  },
+  "score": "5 - 1",
+  "status": "KT · 22/10/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Frankfurt",
+   "badge": "F"
+  },
+  "away": {
+   "name": "Liverpool",
+   "badge": "L"
+  },
+  "score": "1 - 5",
+  "status": "KT · 22/10/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Bayern München",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "Club Brugge",
+   "badge": "CB"
+  },
+  "score": "4 - 0",
+  "status": "KT · 22/10/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "away": {
+   "name": "Juventus",
+   "badge": "J"
+  },
+  "score": "1 - 0",
+  "status": "KT · 22/10/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Slavia Praha",
+   "badge": "SP"
+  },
+  "away": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "score": "0 - 3",
+  "status": "KT · 4/11/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Liverpool",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "score": "1 - 0",
+  "status": "KT · 4/11/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Bayern München",
+   "badge": "BM"
+  },
+  "score": "1 - 2",
+  "status": "KT · 4/11/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Tottenham",
+   "badge": "T"
+  },
+  "away": {
+   "name": "Copenhagen",
+   "badge": "C"
+  },
+  "score": "4 - 0",
+  "status": "KT · 4/11/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Chelsea",
+   "badge": "C"
+  },
+  "away": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "score": "3 - 0",
+  "status": "KT · 25/11/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "away": {
+   "name": "Leverkusen",
+   "badge": "L"
+  },
+  "score": "0 - 2",
+  "status": "KT · 25/11/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Napoli",
+   "badge": "N"
+  },
+  "away": {
+   "name": "Qarabağ",
+   "badge": "Q"
+  },
+  "score": "2 - 0",
+  "status": "KT · 25/11/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Bayern München",
+   "badge": "BM"
+  },
+  "score": "3 - 1",
+  "status": "KT · 26/11/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Olympiacos",
+   "badge": "O"
+  },
+  "away": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "score": "3 - 4",
+  "status": "KT · 26/11/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Tottenham",
+   "badge": "T"
+  },
+  "score": "5 - 3",
+  "status": "KT · 26/11/2025"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Atalanta",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Bayern München",
+   "badge": "BM"
+  },
+  "score": "1 - 6",
+  "status": "KT · 10/3/2026"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Leverkusen",
+   "badge": "L"
+  },
+  "score": "2 - 0",
+  "status": "KT · 17/3/2026"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Chelsea",
+   "badge": "C"
+  },
+  "away": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "score": "0 - 3",
+  "status": "KT · 17/3/2026"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "away": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "score": "1 - 2",
+  "status": "KT · 17/3/2026"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Newcastle",
+   "badge": "N"
+  },
+  "score": "7 - 2",
+  "status": "KT · 18/3/2026"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (PSG thắng luân lưu 4-3)",
+  "home": {
+   "name": "CHUNG KẾT: Paris Saint-Germain",
+   "badge": "CKP"
+  },
+  "away": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "score": "1 - 1",
+  "status": "KT · 30/5/2026"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Aston Villa",
+   "badge": "AV"
+  },
+  "score": "4 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Bournemouth",
+   "badge": "B"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Brentford",
+   "badge": "B"
+  },
+  "score": "2 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Chelsea",
+   "badge": "C"
+  },
+  "score": "5 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Leeds United",
+   "badge": "LU"
+  },
+  "score": "3 - 0",
+  "status": "KT · 23/8/2025"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Liverpool",
+   "badge": "L"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "score": "4 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Manchester United",
+   "badge": "MU"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Newcastle United",
+   "badge": "NU"
+  },
+  "score": "2 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Wolverhampton Wanderers",
+   "badge": "WW"
+  },
+  "away": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "score": "0 - 4",
+  "status": "KT · 16/8/2025"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "West Ham United",
+   "badge": "WHU"
+  },
+  "away": {
+   "name": "Chelsea",
+   "badge": "C"
+  },
+  "score": "1 - 5",
+  "status": "KT · 22/8/2025"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "away": {
+   "name": "Aston Villa",
+   "badge": "AV"
+  },
+  "score": "3 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "away": {
+   "name": "Brentford",
+   "badge": "B"
+  },
+  "score": "5 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "away": {
+   "name": "Chelsea",
+   "badge": "C"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "away": {
+   "name": "Crystal Palace",
+   "badge": "CP"
+  },
+  "score": "3 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "away": {
+   "name": "Liverpool",
+   "badge": "L"
+  },
+  "score": "2 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "away": {
+   "name": "Manchester United",
+   "badge": "MU"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "away": {
+   "name": "Newcastle United",
+   "badge": "NU"
+  },
+  "score": "0 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Liverpool",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "score": "1 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Liverpool",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Aston Villa",
+   "badge": "AV"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Liverpool",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Bournemouth",
+   "badge": "B"
+  },
+  "score": "4 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Liverpool",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Chelsea",
+   "badge": "C"
+  },
+  "score": "2 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Liverpool",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "score": "4 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Liverpool",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Manchester United",
+   "badge": "MU"
+  },
+  "score": "0 - 3",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Liverpool",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Nottingham Forest",
+   "badge": "NF"
+  },
+  "score": "5 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Fulham",
+   "badge": "F"
+  },
+  "away": {
+   "name": "Manchester City",
+   "badge": "MC"
+  },
+  "score": "4 - 5",
+  "status": "KT · 2/12/2025"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Manchester United",
+   "badge": "MU"
+  },
+  "away": {
+   "name": "Burnley",
+   "badge": "B"
+  },
+  "score": "3 - 2",
+  "status": "KT · 30/8/2025"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (Mateta lập hat-trick)",
+  "home": {
+   "name": "Crystal Palace",
+   "badge": "CP"
+  },
+  "away": {
+   "name": "Bournemouth",
+   "badge": "B"
+  },
+  "score": "3 - 3",
+  "status": "KT · 18/10/2025"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (Eze lập hat-trick derby Bắc London)",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Tottenham Hotspur",
+   "badge": "TH"
+  },
+  "score": "4 - 1",
+  "status": "KT · 23/11/2025"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (Schade lập hat-trick)",
+  "home": {
+   "name": "Brentford",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Bournemouth",
+   "badge": "B"
+  },
+  "score": "4 - 1",
+  "status": "KT · 27/12/2025"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (Thiago lập hat-trick)",
+  "home": {
+   "name": "Everton",
+   "badge": "E"
+  },
+  "away": {
+   "name": "Brentford",
+   "badge": "B"
+  },
+  "score": "2 - 4",
+  "status": "KT · 4/1/2026"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (Palmer lập hat-trick)",
+  "home": {
+   "name": "Wolverhampton Wanderers",
+   "badge": "WW"
+  },
+  "away": {
+   "name": "Chelsea",
+   "badge": "C"
+  },
+  "score": "1 - 3",
+  "status": "KT · 7/2/2026"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "West Ham United",
+   "badge": "WHU"
+  },
+  "away": {
+   "name": "Leeds United",
+   "badge": "LU"
+  },
+  "score": "3 - 0",
+  "status": "KT · 24/5/2026"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League",
+  "home": {
+   "name": "Sunderland",
+   "badge": "S"
+  },
+  "away": {
+   "name": "Chelsea",
+   "badge": "C"
+  },
+  "score": "2 - 1",
+  "status": "KT · 24/5/2026"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (Arsenal vô địch)",
+  "home": {
+   "name": "Arsenal",
+   "badge": "A"
+  },
+  "away": {
+   "name": "Burnley",
+   "badge": "B"
+  },
+  "score": "1 - 0",
+  "status": "KT · 18/5/2026"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Alavés",
+   "badge": "A"
+  },
+  "score": "3 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Athletic Bilbao",
+   "badge": "AB"
+  },
+  "score": "4 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Atlético Madrid",
+   "badge": "AM"
+  },
+  "score": "3 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Getafe",
+   "badge": "G"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Girona",
+   "badge": "G"
+  },
+  "score": "2 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Levante",
+   "badge": "L"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Mallorca",
+   "badge": "M"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Osasuna",
+   "badge": "O"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Oviedo",
+   "badge": "O"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "score": "6 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Real Sociedad",
+   "badge": "RS"
+  },
+  "score": "4 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "away": {
+   "name": "Atlético Madrid",
+   "badge": "AM"
+  },
+  "score": "2 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "away": {
+   "name": "Celta Vigo",
+   "badge": "CV"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "away": {
+   "name": "Elche",
+   "badge": "E"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "away": {
+   "name": "Espanyol",
+   "badge": "E"
+  },
+  "score": "2 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "away": {
+   "name": "Levante",
+   "badge": "L"
+  },
+  "score": "5 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "away": {
+   "name": "Osasuna",
+   "badge": "O"
+  },
+  "score": "4 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "away": {
+   "name": "Rayo Vallecano",
+   "badge": "RV"
+  },
+  "score": "4 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "away": {
+   "name": "Real Betis",
+   "badge": "RB"
+  },
+  "score": "3 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Villarreal",
+   "badge": "V"
+  },
+  "away": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "score": "4 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Villarreal",
+   "badge": "V"
+  },
+  "away": {
+   "name": "Atlético Madrid",
+   "badge": "AM"
+  },
+  "score": "0 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Villarreal",
+   "badge": "V"
+  },
+  "away": {
+   "name": "Elche",
+   "badge": "E"
+  },
+  "score": "5 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Villarreal",
+   "badge": "V"
+  },
+  "away": {
+   "name": "Levante",
+   "badge": "L"
+  },
+  "score": "4 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (trận nhiều bàn nhất mùa)",
+  "home": {
+   "name": "Real Betis",
+   "badge": "RB"
+  },
+  "away": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "score": "3 - 5",
+  "status": "KT · 6/12/2025"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Girona",
+   "badge": "G"
+  },
+  "away": {
+   "name": "Levante",
+   "badge": "L"
+  },
+  "score": "0 - 4",
+  "status": "KT · 20/9/2025"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Valencia",
+   "badge": "V"
+  },
+  "score": "6 - 0",
+  "status": "KT · 14/9/2025"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (El Clásico lượt đi)",
+  "home": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "away": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "score": "2 - 1",
+  "status": "KT · 26/10/2025"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (El Clásico lượt về, Barca vô địch)",
+  "home": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "away": {
+   "name": "Real Madrid",
+   "badge": "RM"
+  },
+  "score": "2 - 0",
+  "status": "KT · 10/5/2026"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Villarreal",
+   "badge": "V"
+  },
+  "away": {
+   "name": "Girona",
+   "badge": "G"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Espanyol",
+   "badge": "E"
+  },
+  "away": {
+   "name": "Atlético Madrid",
+   "badge": "AM"
+  },
+  "score": "1 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Celta Vigo",
+   "badge": "CV"
+  },
+  "away": {
+   "name": "Barcelona",
+   "badge": "B"
+  },
+  "score": "2 - 4",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga",
+  "home": {
+   "name": "Sevilla",
+   "badge": "S"
+  },
+  "away": {
+   "name": "Atlético Madrid",
+   "badge": "AM"
+  },
+  "score": "4 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "Atalanta",
+   "badge": "A"
+  },
+  "score": "3 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "Bologna",
+   "badge": "B"
+  },
+  "score": "4 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "Cagliari",
+   "badge": "C"
+  },
+  "score": "4 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "Como",
+   "badge": "C"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "Genoa",
+   "badge": "G"
+  },
+  "score": "3 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "Hellas Verona",
+   "badge": "HV"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "Juventus",
+   "badge": "J"
+  },
+  "score": "1 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "Lazio",
+   "badge": "L"
+  },
+  "score": "0 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "AC Milan",
+   "badge": "AM"
+  },
+  "score": "6 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "Napoli",
+   "badge": "N"
+  },
+  "score": "2 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "Parma",
+   "badge": "P"
+  },
+  "score": "5 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Napoli",
+   "badge": "N"
+  },
+  "away": {
+   "name": "Atalanta",
+   "badge": "A"
+  },
+  "score": "3 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Napoli",
+   "badge": "N"
+  },
+  "away": {
+   "name": "Bologna",
+   "badge": "B"
+  },
+  "score": "1 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Napoli",
+   "badge": "N"
+  },
+  "away": {
+   "name": "Como",
+   "badge": "C"
+  },
+  "score": "2 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Napoli",
+   "badge": "N"
+  },
+  "away": {
+   "name": "Fiorentina",
+   "badge": "F"
+  },
+  "score": "2 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Napoli",
+   "badge": "N"
+  },
+  "away": {
+   "name": "Genoa",
+   "badge": "G"
+  },
+  "score": "3 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Napoli",
+   "badge": "N"
+  },
+  "away": {
+   "name": "Lazio",
+   "badge": "L"
+  },
+  "score": "3 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Napoli",
+   "badge": "N"
+  },
+  "away": {
+   "name": "AC Milan",
+   "badge": "AM"
+  },
+  "score": "1 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "AS Roma",
+   "badge": "AR"
+  },
+  "away": {
+   "name": "Atalanta",
+   "badge": "A"
+  },
+  "score": "1 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "AS Roma",
+   "badge": "AR"
+  },
+  "away": {
+   "name": "Bologna",
+   "badge": "B"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "AS Roma",
+   "badge": "AR"
+  },
+  "away": {
+   "name": "Como",
+   "badge": "C"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "AS Roma",
+   "badge": "AR"
+  },
+  "away": {
+   "name": "Cremonese",
+   "badge": "C"
+  },
+  "score": "3 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "AS Roma",
+   "badge": "AR"
+  },
+  "away": {
+   "name": "Fiorentina",
+   "badge": "F"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "AS Roma",
+   "badge": "AR"
+  },
+  "away": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "score": "1 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "AS Roma",
+   "badge": "AR"
+  },
+  "away": {
+   "name": "Lazio",
+   "badge": "L"
+  },
+  "score": "2 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "AS Roma",
+   "badge": "AR"
+  },
+  "away": {
+   "name": "AC Milan",
+   "badge": "AM"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (trận thắng đậm nhất mùa)",
+  "home": {
+   "name": "Como",
+   "badge": "C"
+  },
+  "away": {
+   "name": "Torino",
+   "badge": "T"
+  },
+  "score": "6 - 0",
+  "status": "KT · 24/1/2026"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Sassuolo",
+   "badge": "S"
+  },
+  "away": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "score": "0 - 5",
+  "status": "KT · 8/2/2026"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (trận nhiều bàn nhất mùa)",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "Pisa",
+   "badge": "P"
+  },
+  "score": "6 - 2",
+  "status": "KT · 23/1/2026"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (derby Milano)",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "AC Milan",
+   "badge": "AM"
+  },
+  "score": "0 - 1",
+  "status": "KT · 23/11/2025"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (Inter vô địch)",
+  "home": {
+   "name": "Inter Milan",
+   "badge": "IM"
+  },
+  "away": {
+   "name": "Parma",
+   "badge": "P"
+  },
+  "score": "2 - 0",
+  "status": "KT · 3/5/2026"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A",
+  "home": {
+   "name": "Como",
+   "badge": "C"
+  },
+  "away": {
+   "name": "Cremonese",
+   "badge": "C"
+  },
+  "score": "4 - 1",
+  "status": "KT · 24/5/2026"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "FC Augsburg",
+   "badge": "FA"
+  },
+  "score": "1 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "Union Berlin",
+   "badge": "UB"
+  },
+  "score": "4 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "Werder Bremen",
+   "badge": "WB"
+  },
+  "score": "4 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "Borussia Dortmund",
+   "badge": "BD"
+  },
+  "score": "2 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "Eintracht Frankfurt",
+   "badge": "EF"
+  },
+  "score": "3 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "SC Freiburg",
+   "badge": "SF"
+  },
+  "score": "6 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "Hamburger SV",
+   "badge": "HS"
+  },
+  "score": "5 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "1.FC Heidenheim",
+   "badge": "1H"
+  },
+  "score": "5 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "TSG Hoffenheim",
+   "badge": "TH"
+  },
+  "score": "6 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "1.FC Köln",
+   "badge": "1K"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "Bayer Leverkusen",
+   "badge": "BL"
+  },
+  "score": "4 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "Borussia Mönchengladbach",
+   "badge": "BM"
+  },
+  "score": "3 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (trận thắng đậm nhất mùa)",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "VfL Wolfsburg",
+   "badge": "VW"
+  },
+  "score": "8 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (Bayern vô địch)",
+  "home": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "away": {
+   "name": "VfB Stuttgart",
+   "badge": "VS"
+  },
+  "score": "4 - 2",
+  "status": "KT · 19/4/2026"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Borussia Dortmund",
+   "badge": "BD"
+  },
+  "away": {
+   "name": "FC Augsburg",
+   "badge": "FA"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Borussia Dortmund",
+   "badge": "BD"
+  },
+  "away": {
+   "name": "Union Berlin",
+   "badge": "UB"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Borussia Dortmund",
+   "badge": "BD"
+  },
+  "away": {
+   "name": "SC Freiburg",
+   "badge": "SF"
+  },
+  "score": "4 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Borussia Dortmund",
+   "badge": "BD"
+  },
+  "away": {
+   "name": "TSG Hoffenheim",
+   "badge": "TH"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Borussia Dortmund",
+   "badge": "BD"
+  },
+  "away": {
+   "name": "1.FC Köln",
+   "badge": "1K"
+  },
+  "score": "1 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Borussia Dortmund",
+   "badge": "BD"
+  },
+  "away": {
+   "name": "Bayer Leverkusen",
+   "badge": "BL"
+  },
+  "score": "0 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Borussia Dortmund",
+   "badge": "BD"
+  },
+  "away": {
+   "name": "Mainz 05",
+   "badge": "M0"
+  },
+  "score": "4 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Borussia Dortmund",
+   "badge": "BD"
+  },
+  "away": {
+   "name": "Borussia Mönchengladbach",
+   "badge": "BM"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Borussia Dortmund",
+   "badge": "BD"
+  },
+  "away": {
+   "name": "Bayern Munich",
+   "badge": "BM"
+  },
+  "score": "2 - 3",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Borussia Dortmund",
+   "badge": "BD"
+  },
+  "away": {
+   "name": "VfB Stuttgart",
+   "badge": "VS"
+  },
+  "score": "3 - 3",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Borussia Dortmund",
+   "badge": "BD"
+  },
+  "away": {
+   "name": "VfL Wolfsburg",
+   "badge": "VW"
+  },
+  "score": "1 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (trận thắng sân khách đậm nhất mùa)",
+  "home": {
+   "name": "Augsburg",
+   "badge": "A"
+  },
+  "away": {
+   "name": "RB Leipzig",
+   "badge": "RL"
+  },
+  "score": "0 - 6",
+  "status": "KT · 8/2/2026"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (trận nhiều bàn nhất mùa)",
+  "home": {
+   "name": "Mönchengladbach",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Eintracht Frankfurt",
+   "badge": "EF"
+  },
+  "score": "4 - 6",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "RB Leipzig",
+   "badge": "RL"
+  },
+  "away": {
+   "name": "1.FC Köln",
+   "badge": "1K"
+  },
+  "score": "5 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayer Leverkusen",
+   "badge": "BL"
+  },
+  "away": {
+   "name": "Hamburger SV",
+   "badge": "HS"
+  },
+  "score": "6 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "Bayer Leverkusen",
+   "badge": "BL"
+  },
+  "away": {
+   "name": "VfL Wolfsburg",
+   "badge": "VW"
+  },
+  "score": "6 - 3",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "TSG Hoffenheim",
+   "badge": "TH"
+  },
+  "away": {
+   "name": "Mainz 05",
+   "badge": "M0"
+  },
+  "score": "5 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga",
+  "home": {
+   "name": "VfB Stuttgart",
+   "badge": "VS"
+  },
+  "away": {
+   "name": "Hamburger SV",
+   "badge": "HS"
+  },
+  "score": "4 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Angers",
+   "badge": "A"
+  },
+  "score": "1 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Auxerre",
+   "badge": "A"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Brest",
+   "badge": "B"
+  },
+  "score": "1 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Le Havre",
+   "badge": "LH"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Lens",
+   "badge": "L"
+  },
+  "score": "2 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Lille",
+   "badge": "L"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Lyon",
+   "badge": "L"
+  },
+  "score": "1 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (trận thắng đậm derby)",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Marseille",
+   "badge": "M"
+  },
+  "score": "5 - 0",
+  "status": "KT · 8/2/2026"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Metz",
+   "badge": "M"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Monaco",
+   "badge": "M"
+  },
+  "score": "1 - 3",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Nantes",
+   "badge": "N"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Nice",
+   "badge": "N"
+  },
+  "score": "1 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Paris FC",
+   "badge": "PF"
+  },
+  "score": "2 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Rennes",
+   "badge": "R"
+  },
+  "score": "5 - 0",
+  "status": "KT · 6/12/2025"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Marseille",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Angers",
+   "badge": "A"
+  },
+  "score": "2 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Marseille",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Auxerre",
+   "badge": "A"
+  },
+  "score": "1 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Marseille",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Brest",
+   "badge": "B"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Marseille",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Le Havre",
+   "badge": "LH"
+  },
+  "score": "6 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Marseille",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Lens",
+   "badge": "L"
+  },
+  "score": "3 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Marseille",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Lille",
+   "badge": "L"
+  },
+  "score": "1 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Marseille",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Lorient",
+   "badge": "L"
+  },
+  "score": "4 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Marseille",
+   "badge": "M"
+  },
+  "away": {
+   "name": "Lyon",
+   "badge": "L"
+  },
+  "score": "3 - 2",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Lens",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Angers",
+   "badge": "A"
+  },
+  "score": "5 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Lens",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Auxerre",
+   "badge": "A"
+  },
+  "score": "1 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Lens",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Brest",
+   "badge": "B"
+  },
+  "score": "3 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Lens",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Lorient",
+   "badge": "L"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Lens",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Lyon",
+   "badge": "L"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Lens",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Monaco",
+   "badge": "M"
+  },
+  "score": "3 - 0",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Lens",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "score": "2 - 1",
+  "status": "KT · Mùa giải 2025-26"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (trận thắng sân khách đậm nhất mùa)",
+  "home": {
+   "name": "Lorient",
+   "badge": "L"
+  },
+  "away": {
+   "name": "Lille",
+   "badge": "L"
+  },
+  "score": "1 - 7",
+  "status": "KT · 30/8/2025"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1",
+  "home": {
+   "name": "Toulouse",
+   "badge": "T"
+  },
+  "away": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "score": "3 - 6",
+  "status": "KT · 30/8/2025"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (trận nhiều bàn nhất mùa)",
+  "home": {
+   "name": "Strasbourg",
+   "badge": "S"
+  },
+  "away": {
+   "name": "Monaco",
+   "badge": "M"
+  },
+  "score": "5 - 4",
+  "status": "KT · 17/5/2026"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (PSG vô địch)",
+  "home": {
+   "name": "Paris Saint-Germain",
+   "badge": "PSG"
+  },
+  "away": {
+   "name": "Lens",
+   "badge": "L"
+  },
+  "score": "2 - 0",
+  "status": "KT · 13/5/2026"
+ }
+]

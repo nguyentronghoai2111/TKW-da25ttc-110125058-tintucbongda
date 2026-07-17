@@ -1,0 +1,898 @@
+{
+ "premier-league": [
+  {
+   "rank": 1,
+   "team": "Arsenal",
+   "points": 89,
+   "goalsFor": 81,
+   "goalsAgainst": 30,
+   "logo": "https://media.api-sports.io/football/teams/42.png"
+  },
+  {
+   "rank": 2,
+   "team": "Man City",
+   "points": 89,
+   "goalsFor": 79,
+   "goalsAgainst": 25,
+   "logo": "https://media.api-sports.io/football/teams/50.png"
+  },
+  {
+   "rank": 3,
+   "team": "Man United",
+   "points": 84,
+   "goalsFor": 74,
+   "goalsAgainst": 33,
+   "logo": "https://media.api-sports.io/football/teams/33.png"
+  },
+  {
+   "rank": 4,
+   "team": "Aston Villa",
+   "points": 74,
+   "goalsFor": 74,
+   "goalsAgainst": 33,
+   "logo": "https://media.api-sports.io/football/teams/66.png"
+  },
+  {
+   "rank": 5,
+   "team": "Liverpool",
+   "points": 73,
+   "goalsFor": 68,
+   "goalsAgainst": 34,
+   "logo": "https://media.api-sports.io/football/teams/40.png"
+  },
+  {
+   "rank": 6,
+   "team": "Bournemouth",
+   "points": 55,
+   "goalsFor": 68,
+   "goalsAgainst": 34,
+   "logo": "https://media.api-sports.io/football/teams/35.png"
+  },
+  {
+   "rank": 7,
+   "team": "Sunderland",
+   "points": 51,
+   "goalsFor": 61,
+   "goalsAgainst": 41,
+   "logo": "https://media.api-sports.io/football/teams/746.png"
+  },
+  {
+   "rank": 8,
+   "team": "Brighton",
+   "points": 49,
+   "goalsFor": 58,
+   "goalsAgainst": 42,
+   "logo": "https://media.api-sports.io/football/teams/51.png"
+  },
+  {
+   "rank": 9,
+   "team": "Brentford",
+   "points": 48,
+   "goalsFor": 59,
+   "goalsAgainst": 43,
+   "logo": "https://media.api-sports.io/football/teams/55.png"
+  },
+  {
+   "rank": 10,
+   "team": "Chelsea",
+   "points": 47,
+   "goalsFor": 51,
+   "goalsAgainst": 48,
+   "logo": "https://media.api-sports.io/football/teams/49.png"
+  },
+  {
+   "rank": 11,
+   "team": "Fulham",
+   "points": 45,
+   "goalsFor": 56,
+   "goalsAgainst": 44,
+   "logo": "https://media.api-sports.io/football/teams/36.png"
+  },
+  {
+   "rank": 12,
+   "team": "Newcastle",
+   "points": 37,
+   "goalsFor": 51,
+   "goalsAgainst": 46,
+   "logo": "https://media.api-sports.io/football/teams/34.png"
+  },
+  {
+   "rank": 13,
+   "team": "Everton",
+   "points": 34,
+   "goalsFor": 50,
+   "goalsAgainst": 51,
+   "logo": "https://media.api-sports.io/football/teams/45.png"
+  },
+  {
+   "rank": 14,
+   "team": "Leeds United",
+   "points": 33,
+   "goalsFor": 44,
+   "goalsAgainst": 52,
+   "logo": "https://media.api-sports.io/football/teams/63.png"
+  },
+  {
+   "rank": 15,
+   "team": "Crystal Palace",
+   "points": 31,
+   "goalsFor": 37,
+   "goalsAgainst": 51,
+   "logo": "https://media.api-sports.io/football/teams/52.png"
+  },
+  {
+   "rank": 16,
+   "team": "Nottingham",
+   "points": 31,
+   "goalsFor": 36,
+   "goalsAgainst": 57,
+   "logo": "https://media.api-sports.io/football/teams/65.png"
+  },
+  {
+   "rank": 17,
+   "team": "Tottenham",
+   "points": 24,
+   "goalsFor": 31,
+   "goalsAgainst": 58,
+   "logo": "https://media.api-sports.io/football/teams/47.png"
+  },
+  {
+   "rank": 18,
+   "team": "West Ham",
+   "points": 23,
+   "goalsFor": 28,
+   "goalsAgainst": 63,
+   "logo": "https://media.api-sports.io/football/teams/48.png",
+   "relegation": true
+  },
+  {
+   "rank": 19,
+   "team": "Burnley",
+   "points": 23,
+   "goalsFor": 28,
+   "goalsAgainst": 66,
+   "logo": "https://media.api-sports.io/football/teams/44.png",
+   "relegation": true
+  },
+  {
+   "rank": 20,
+   "team": "Wolves",
+   "points": 23,
+   "goalsFor": 26,
+   "goalsAgainst": 63,
+   "logo": "https://media.api-sports.io/football/teams/39.png",
+   "relegation": true
+  }
+ ],
+ "la-liga": [
+  {
+   "rank": 1,
+   "team": "Barcelona",
+   "points": 90,
+   "goalsFor": 77,
+   "goalsAgainst": 29,
+   "logo": "https://media.api-sports.io/football/teams/529.png"
+  },
+  {
+   "rank": 2,
+   "team": "Real Madrid",
+   "points": 87,
+   "goalsFor": 84,
+   "goalsAgainst": 30,
+   "logo": "https://media.api-sports.io/football/teams/541.png"
+  },
+  {
+   "rank": 3,
+   "team": "Atletico Madrid",
+   "points": 79,
+   "goalsFor": 74,
+   "goalsAgainst": 30,
+   "logo": "https://media.api-sports.io/football/teams/530.png"
+  },
+  {
+   "rank": 4,
+   "team": "Real Sociedad",
+   "points": 71,
+   "goalsFor": 77,
+   "goalsAgainst": 37,
+   "logo": "https://media.api-sports.io/football/teams/548.png"
+  },
+  {
+   "rank": 5,
+   "team": "Villarreal",
+   "points": 68,
+   "goalsFor": 70,
+   "goalsAgainst": 37,
+   "logo": "https://media.api-sports.io/football/teams/533.png"
+  },
+  {
+   "rank": 6,
+   "team": "Real Betis",
+   "points": 61,
+   "goalsFor": 69,
+   "goalsAgainst": 38,
+   "logo": "https://media.api-sports.io/football/teams/543.png"
+  },
+  {
+   "rank": 7,
+   "team": "Athletic Bilbao",
+   "points": 60,
+   "goalsFor": 63,
+   "goalsAgainst": 37,
+   "logo": "https://media.api-sports.io/football/teams/531.png"
+  },
+  {
+   "rank": 8,
+   "team": "Sevilla",
+   "points": 60,
+   "goalsFor": 65,
+   "goalsAgainst": 44,
+   "logo": "https://media.api-sports.io/football/teams/536.png"
+  },
+  {
+   "rank": 9,
+   "team": "Valencia",
+   "points": 54,
+   "goalsFor": 55,
+   "goalsAgainst": 39,
+   "logo": "https://media.api-sports.io/football/teams/532.png"
+  },
+  {
+   "rank": 10,
+   "team": "Osasuna",
+   "points": 54,
+   "goalsFor": 52,
+   "goalsAgainst": 43,
+   "logo": "https://media.api-sports.io/football/teams/727.png"
+  },
+  {
+   "rank": 11,
+   "team": "Celta Vigo",
+   "points": 51,
+   "goalsFor": 50,
+   "goalsAgainst": 49,
+   "logo": "https://media.api-sports.io/football/teams/538.png"
+  },
+  {
+   "rank": 12,
+   "team": "Rayo Vallecano",
+   "points": 49,
+   "goalsFor": 46,
+   "goalsAgainst": 51,
+   "logo": "https://media.api-sports.io/football/teams/728.png"
+  },
+  {
+   "rank": 13,
+   "team": "Mallorca",
+   "points": 48,
+   "goalsFor": 48,
+   "goalsAgainst": 54,
+   "logo": "https://media.api-sports.io/football/teams/798.png"
+  },
+  {
+   "rank": 14,
+   "team": "Girona",
+   "points": 47,
+   "goalsFor": 47,
+   "goalsAgainst": 53,
+   "logo": "https://media.api-sports.io/football/teams/547.png"
+  },
+  {
+   "rank": 15,
+   "team": "Getafe",
+   "points": 47,
+   "goalsFor": 44,
+   "goalsAgainst": 51,
+   "logo": "https://media.api-sports.io/football/teams/546.png"
+  },
+  {
+   "rank": 16,
+   "team": "Alaves",
+   "points": 41,
+   "goalsFor": 34,
+   "goalsAgainst": 61,
+   "logo": "https://media.api-sports.io/football/teams/542.png"
+  },
+  {
+   "rank": 17,
+   "team": "Las Palmas",
+   "points": 40,
+   "goalsFor": 34,
+   "goalsAgainst": 60,
+   "logo": "https://media.api-sports.io/football/teams/534.png"
+  },
+  {
+   "rank": 18,
+   "team": "Espanyol",
+   "points": 28,
+   "goalsFor": 28,
+   "goalsAgainst": 61,
+   "logo": "https://media.api-sports.io/football/teams/540.png",
+   "relegation": true
+  },
+  {
+   "rank": 19,
+   "team": "Leganes",
+   "points": 27,
+   "goalsFor": 30,
+   "goalsAgainst": 61,
+   "logo": "https://media.api-sports.io/football/teams/745.png",
+   "relegation": true
+  },
+  {
+   "rank": 20,
+   "team": "Valladolid",
+   "points": 24,
+   "goalsFor": 28,
+   "goalsAgainst": 61,
+   "logo": "https://media.api-sports.io/football/teams/720.png",
+   "relegation": true
+  }
+ ],
+ "serie-a": [
+  {
+   "rank": 1,
+   "team": "Inter",
+   "points": 89,
+   "goalsFor": 85,
+   "goalsAgainst": 24,
+   "logo": "https://media.api-sports.io/football/teams/505.png"
+  },
+  {
+   "rank": 2,
+   "team": "AC Milan",
+   "points": 87,
+   "goalsFor": 83,
+   "goalsAgainst": 27,
+   "logo": "https://media.api-sports.io/football/teams/489.png"
+  },
+  {
+   "rank": 3,
+   "team": "Juventus",
+   "points": 84,
+   "goalsFor": 74,
+   "goalsAgainst": 34,
+   "logo": "https://media.api-sports.io/football/teams/496.png"
+  },
+  {
+   "rank": 4,
+   "team": "Napoli",
+   "points": 82,
+   "goalsFor": 77,
+   "goalsAgainst": 31,
+   "logo": "https://media.api-sports.io/football/teams/492.png"
+  },
+  {
+   "rank": 5,
+   "team": "Roma",
+   "points": 67,
+   "goalsFor": 70,
+   "goalsAgainst": 39,
+   "logo": "https://media.api-sports.io/football/teams/497.png"
+  },
+  {
+   "rank": 6,
+   "team": "Atalanta",
+   "points": 66,
+   "goalsFor": 69,
+   "goalsAgainst": 36,
+   "logo": "https://media.api-sports.io/football/teams/499.png"
+  },
+  {
+   "rank": 7,
+   "team": "Lazio",
+   "points": 61,
+   "goalsFor": 68,
+   "goalsAgainst": 38,
+   "logo": "https://media.api-sports.io/football/teams/487.png"
+  },
+  {
+   "rank": 8,
+   "team": "Fiorentina",
+   "points": 59,
+   "goalsFor": 61,
+   "goalsAgainst": 43,
+   "logo": "https://media.api-sports.io/football/teams/502.png"
+  },
+  {
+   "rank": 9,
+   "team": "Bologna",
+   "points": 58,
+   "goalsFor": 59,
+   "goalsAgainst": 46,
+   "logo": "https://media.api-sports.io/football/teams/500.png"
+  },
+  {
+   "rank": 10,
+   "team": "Torino",
+   "points": 50,
+   "goalsFor": 59,
+   "goalsAgainst": 48,
+   "logo": "https://media.api-sports.io/football/teams/503.png"
+  },
+  {
+   "rank": 11,
+   "team": "Udinese",
+   "points": 50,
+   "goalsFor": 49,
+   "goalsAgainst": 46,
+   "logo": "https://media.api-sports.io/football/teams/494.png"
+  },
+  {
+   "rank": 12,
+   "team": "Genoa",
+   "points": 45,
+   "goalsFor": 48,
+   "goalsAgainst": 46,
+   "logo": "https://media.api-sports.io/football/teams/495.png"
+  },
+  {
+   "rank": 13,
+   "team": "Sassuolo",
+   "points": 40,
+   "goalsFor": 47,
+   "goalsAgainst": 47,
+   "logo": "https://media.api-sports.io/football/teams/488.png"
+  },
+  {
+   "rank": 14,
+   "team": "Empoli",
+   "points": 39,
+   "goalsFor": 47,
+   "goalsAgainst": 52,
+   "logo": "https://media.api-sports.io/football/teams/511.png"
+  },
+  {
+   "rank": 15,
+   "team": "Lecce",
+   "points": 34,
+   "goalsFor": 39,
+   "goalsAgainst": 51,
+   "logo": "https://media.api-sports.io/football/teams/867.png"
+  },
+  {
+   "rank": 16,
+   "team": "Cagliari",
+   "points": 30,
+   "goalsFor": 34,
+   "goalsAgainst": 53,
+   "logo": "https://media.api-sports.io/football/teams/490.png"
+  },
+  {
+   "rank": 17,
+   "team": "Frosinone",
+   "points": 30,
+   "goalsFor": 33,
+   "goalsAgainst": 56,
+   "logo": "https://media.api-sports.io/football/teams/512.png"
+  },
+  {
+   "rank": 18,
+   "team": "Verona",
+   "points": 27,
+   "goalsFor": 27,
+   "goalsAgainst": 62,
+   "logo": "https://media.api-sports.io/football/teams/504.png",
+   "relegation": true
+  },
+  {
+   "rank": 19,
+   "team": "Salernitana",
+   "points": 22,
+   "goalsFor": 25,
+   "goalsAgainst": 67,
+   "logo": "https://media.api-sports.io/football/teams/514.png",
+   "relegation": true
+  },
+  {
+   "rank": 20,
+   "team": "Monza",
+   "points": 20,
+   "goalsFor": 24,
+   "goalsAgainst": 65,
+   "logo": "https://media.api-sports.io/football/teams/1579.png",
+   "relegation": true
+  }
+ ],
+ "bundesliga": [
+  {
+   "rank": 1,
+   "team": "Bayern Munich",
+   "points": 80,
+   "goalsFor": 81,
+   "goalsAgainst": 26,
+   "logo": "https://media.api-sports.io/football/teams/157.png"
+  },
+  {
+   "rank": 2,
+   "team": "Dortmund",
+   "points": 80,
+   "goalsFor": 78,
+   "goalsAgainst": 33,
+   "logo": "https://media.api-sports.io/football/teams/165.png"
+  },
+  {
+   "rank": 3,
+   "team": "RB Leipzig",
+   "points": 79,
+   "goalsFor": 79,
+   "goalsAgainst": 29,
+   "logo": "https://media.api-sports.io/football/teams/173.png"
+  },
+  {
+   "rank": 4,
+   "team": "Bayer Leverkusen",
+   "points": 75,
+   "goalsFor": 75,
+   "goalsAgainst": 31,
+   "logo": "https://media.api-sports.io/football/teams/168.png"
+  },
+  {
+   "rank": 5,
+   "team": "Union Berlin",
+   "points": 74,
+   "goalsFor": 70,
+   "goalsAgainst": 38,
+   "logo": "https://media.api-sports.io/football/teams/182.png"
+  },
+  {
+   "rank": 6,
+   "team": "Freiburg",
+   "points": 72,
+   "goalsFor": 66,
+   "goalsAgainst": 34,
+   "logo": "https://media.api-sports.io/football/teams/160.png"
+  },
+  {
+   "rank": 7,
+   "team": "Eintracht Frankfurt",
+   "points": 72,
+   "goalsFor": 67,
+   "goalsAgainst": 43,
+   "logo": "https://media.api-sports.io/football/teams/169.png"
+  },
+  {
+   "rank": 8,
+   "team": "Wolfsburg",
+   "points": 71,
+   "goalsFor": 58,
+   "goalsAgainst": 37,
+   "logo": "https://media.api-sports.io/football/teams/131.png"
+  },
+  {
+   "rank": 9,
+   "team": "Mainz",
+   "points": 65,
+   "goalsFor": 62,
+   "goalsAgainst": 39,
+   "logo": "https://media.api-sports.io/football/teams/164.png"
+  },
+  {
+   "rank": 10,
+   "team": "Borussia M.Gladbach",
+   "points": 63,
+   "goalsFor": 52,
+   "goalsAgainst": 44,
+   "logo": "https://media.api-sports.io/football/teams/163.png"
+  },
+  {
+   "rank": 11,
+   "team": "Koln",
+   "points": 51,
+   "goalsFor": 50,
+   "goalsAgainst": 49,
+   "logo": "https://media.api-sports.io/football/teams/192.png"
+  },
+  {
+   "rank": 12,
+   "team": "Hoffenheim",
+   "points": 44,
+   "goalsFor": 52,
+   "goalsAgainst": 52,
+   "logo": "https://media.api-sports.io/football/teams/167.png"
+  },
+  {
+   "rank": 13,
+   "team": "Werder Bremen",
+   "points": 33,
+   "goalsFor": 45,
+   "goalsAgainst": 53,
+   "logo": "https://media.api-sports.io/football/teams/162.png"
+  },
+  {
+   "rank": 14,
+   "team": "Augsburg",
+   "points": 32,
+   "goalsFor": 39,
+   "goalsAgainst": 51,
+   "logo": "https://media.api-sports.io/football/teams/170.png"
+  },
+  {
+   "rank": 15,
+   "team": "Stuttgart",
+   "points": 32,
+   "goalsFor": 42,
+   "goalsAgainst": 51,
+   "logo": "https://media.api-sports.io/football/teams/172.png"
+  },
+  {
+   "rank": 16,
+   "team": "Bochum",
+   "points": 32,
+   "goalsFor": 39,
+   "goalsAgainst": 57,
+   "logo": "https://media.api-sports.io/football/teams/176.png",
+   "relegation": true
+  },
+  {
+   "rank": 17,
+   "team": "Heidenheim",
+   "points": 27,
+   "goalsFor": 37,
+   "goalsAgainst": 59,
+   "logo": "https://media.api-sports.io/football/teams/180.png",
+   "relegation": true
+  },
+  {
+   "rank": 18,
+   "team": "Darmstadt",
+   "points": 26,
+   "goalsFor": 33,
+   "goalsAgainst": 65,
+   "logo": "https://media.api-sports.io/football/teams/178.png",
+   "relegation": true
+  }
+ ],
+ "ligue-1": [
+  {
+   "rank": 1,
+   "team": "PSG",
+   "points": 89,
+   "goalsFor": 81,
+   "goalsAgainst": 23,
+   "logo": "https://media.api-sports.io/football/teams/85.png"
+  },
+  {
+   "rank": 2,
+   "team": "Marseille",
+   "points": 87,
+   "goalsFor": 76,
+   "goalsAgainst": 31,
+   "logo": "https://media.api-sports.io/football/teams/81.png"
+  },
+  {
+   "rank": 3,
+   "team": "Monaco",
+   "points": 85,
+   "goalsFor": 80,
+   "goalsAgainst": 32,
+   "logo": "https://media.api-sports.io/football/teams/91.png"
+  },
+  {
+   "rank": 4,
+   "team": "Lille",
+   "points": 84,
+   "goalsFor": 73,
+   "goalsAgainst": 32,
+   "logo": "https://media.api-sports.io/football/teams/79.png"
+  },
+  {
+   "rank": 5,
+   "team": "Lyon",
+   "points": 81,
+   "goalsFor": 71,
+   "goalsAgainst": 34,
+   "logo": "https://media.api-sports.io/football/teams/80.png"
+  },
+  {
+   "rank": 6,
+   "team": "Nice",
+   "points": 71,
+   "goalsFor": 67,
+   "goalsAgainst": 39,
+   "logo": "https://media.api-sports.io/football/teams/84.png"
+  },
+  {
+   "rank": 7,
+   "team": "Rennes",
+   "points": 60,
+   "goalsFor": 62,
+   "goalsAgainst": 39,
+   "logo": "https://media.api-sports.io/football/teams/94.png"
+  },
+  {
+   "rank": 8,
+   "team": "Lens",
+   "points": 50,
+   "goalsFor": 64,
+   "goalsAgainst": 42,
+   "logo": "https://media.api-sports.io/football/teams/116.png"
+  },
+  {
+   "rank": 9,
+   "team": "Reims",
+   "points": 43,
+   "goalsFor": 55,
+   "goalsAgainst": 39,
+   "logo": "https://media.api-sports.io/football/teams/93.png"
+  },
+  {
+   "rank": 10,
+   "team": "Toulouse",
+   "points": 40,
+   "goalsFor": 58,
+   "goalsAgainst": 42,
+   "logo": "https://media.api-sports.io/football/teams/96.png"
+  },
+  {
+   "rank": 11,
+   "team": "Nantes",
+   "points": 35,
+   "goalsFor": 49,
+   "goalsAgainst": 51,
+   "logo": "https://media.api-sports.io/football/teams/83.png"
+  },
+  {
+   "rank": 12,
+   "team": "Montpellier",
+   "points": 30,
+   "goalsFor": 48,
+   "goalsAgainst": 53,
+   "logo": "https://media.api-sports.io/football/teams/82.png"
+  },
+  {
+   "rank": 13,
+   "team": "Strasbourg",
+   "points": 28,
+   "goalsFor": 46,
+   "goalsAgainst": 49,
+   "logo": "https://media.api-sports.io/football/teams/95.png"
+  },
+  {
+   "rank": 14,
+   "team": "Brest",
+   "points": 28,
+   "goalsFor": 44,
+   "goalsAgainst": 50,
+   "logo": "https://media.api-sports.io/football/teams/106.png"
+  },
+  {
+   "rank": 15,
+   "team": "Le Havre",
+   "points": 27,
+   "goalsFor": 39,
+   "goalsAgainst": 56,
+   "logo": "https://media.api-sports.io/football/teams/111.png"
+  },
+  {
+   "rank": 16,
+   "team": "Metz",
+   "points": 27,
+   "goalsFor": 37,
+   "goalsAgainst": 55,
+   "logo": "https://media.api-sports.io/football/teams/112.png",
+   "relegation": true
+  },
+  {
+   "rank": 17,
+   "team": "Clermont",
+   "points": 27,
+   "goalsFor": 37,
+   "goalsAgainst": 63,
+   "logo": "https://media.api-sports.io/football/teams/99.png",
+   "relegation": true
+  },
+  {
+   "rank": 18,
+   "team": "Lorient",
+   "points": 26,
+   "goalsFor": 31,
+   "goalsAgainst": 65,
+   "logo": "https://media.api-sports.io/football/teams/97.png",
+   "relegation": true
+  }
+ ],
+ "v-league": [
+  {
+   "rank": 1,
+   "team": "Cong An Ha Noi",
+   "points": 90,
+   "goalsFor": 79,
+   "goalsAgainst": 29
+  },
+  {
+   "rank": 2,
+   "team": "Nam Dinh",
+   "points": 84,
+   "goalsFor": 79,
+   "goalsAgainst": 25
+  },
+  {
+   "rank": 3,
+   "team": "Hanoi FC",
+   "points": 82,
+   "goalsFor": 72,
+   "goalsAgainst": 32
+  },
+  {
+   "rank": 4,
+   "team": "Thanh Hoa",
+   "points": 63,
+   "goalsFor": 71,
+   "goalsAgainst": 33
+  },
+  {
+   "rank": 5,
+   "team": "Binh Duong",
+   "points": 56,
+   "goalsFor": 68,
+   "goalsAgainst": 38
+  },
+  {
+   "rank": 6,
+   "team": "Hoang Anh Gia Lai",
+   "points": 54,
+   "goalsFor": 71,
+   "goalsAgainst": 39
+  },
+  {
+   "rank": 7,
+   "team": "Ha Tinh",
+   "points": 53,
+   "goalsFor": 68,
+   "goalsAgainst": 35
+  },
+  {
+   "rank": 8,
+   "team": "SLNA",
+   "points": 52,
+   "goalsFor": 58,
+   "goalsAgainst": 38
+  },
+  {
+   "rank": 9,
+   "team": "Da Nang",
+   "points": 46,
+   "goalsFor": 56,
+   "goalsAgainst": 47
+  },
+  {
+   "rank": 10,
+   "team": "The Cong Viettel",
+   "points": 46,
+   "goalsFor": 51,
+   "goalsAgainst": 46
+  },
+  {
+   "rank": 11,
+   "team": "Quang Nam",
+   "points": 39,
+   "goalsFor": 56,
+   "goalsAgainst": 45
+  },
+  {
+   "rank": 12,
+   "team": "Khanh Hoa",
+   "points": 34,
+   "goalsFor": 51,
+   "goalsAgainst": 47,
+   "relegation": true
+  },
+  {
+   "rank": 13,
+   "team": "PVF-CAND",
+   "points": 33,
+   "goalsFor": 42,
+   "goalsAgainst": 51,
+   "relegation": true
+  },
+  {
+   "rank": 14,
+   "team": "TP.HCM",
+   "points": 26,
+   "goalsFor": 44,
+   "goalsAgainst": 49,
+   "relegation": true
+  }
+ ]
+}

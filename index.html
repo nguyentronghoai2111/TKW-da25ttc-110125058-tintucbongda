@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trang chủ - Tin tức bóng đá 2026</title>
+  <link rel="stylesheet" href="assets/css/unified-styles.css">
+  <link rel="stylesheet" href="assets/css/pages/home.css">
+</head>
+<body>
+
+  <div class="container">
+
+    <div class="banner">
+      <img src="assets/img/anhbongda.png" alt="Banner bóng đá">
+    </div>
+
+    <div class="menu">
+      <a class="active" href="index.html">Trang chủ</a>
+      <a href="pages/cactrandauvuaqua.html">Các trận đấu vừa qua</a>
+      <a href="pages/thongtinantuong.html">Thông tin ấn tượng</a>
+      <a href="pages/trinhdienantuong.html">Trình diễn ấn tượng</a>
+      <a href="pages/gioithieu.html">Giới thiệu</a>
+      <a href="pages/lienhe.html">Liên hệ</a>
+    </div>
+
+    <div class="search-box">
+      <input type="text" id="global-search" autocomplete="off" placeholder="Tìm giải đấu, đội bóng hoặc cầu thủ...">
+      <button type="button" id="search-clear" class="btn-more" style="margin:0;">Ngẫu nhiên giải khác</button>
+      <div class="search-results" id="search-results"></div>
+    </div>
+
+    <div class="main-layout">
+
+      <main>
+        <h2 class="section-title">Tin tức mới nhất</h2>
+        <div class="news-grid" id="news-grid"></div>
+        <div class="pagination" id="news-pagination"></div>
+
+        <h2 class="section-title" style="margin-top: 30px;">Kết quả vòng đấu gần nhất (tất cả các giải)</h2>
+        <div class="recent-matches" id="recent-matches"></div>
+        <div class="pagination" id="matches-pagination"></div>
+      </main>
+
+      <aside class="sidebar">
+        <div class="sidebar-box">
+          <h3 class="section-title" style="font-size:14px"><span id="standings-title">BXH</span></h3>
+          <table class="widget-table" id="bxh-doi-bong">
+            <thead>
+              <tr><th>Hạng</th><th style="text-align: left; padding-left: 6px;">Đội bóng</th><th>Điểm</th></tr>
+            </thead>
+            <tbody id="standings-top"></tbody>
+            <tbody id="standings-more" style="display: none;"></tbody>
+            <tbody id="standings-bottom"></tbody>
+          </table>
+          <div style="text-align:center; margin-top: 10px;">
+            <button id="btn-bxh" class="btn-more">Xem đầy đủ</button>
+          </div>
+        </div>
+
+        <div class="sidebar-box">
+          <h3 class="section-title" style="font-size:14px">BXH các Đội tuyển Quốc gia</h3>
+          <table class="widget-table" id="bxh-doi-tuyen">
+            <thead>
+              <tr><th>Hạng</th><th style="text-align: left; padding-left: 6px;">Đội tuyển</th><th>Điểm</th></tr>
+            </thead>
+            <tbody id="national-standings-top"></tbody>
+            <tbody id="national-standings-more" style="display: none;"></tbody>
+          </table>
+          <div style="text-align:center; margin-top: 10px;">
+            <button id="btn-bxh-quoc-gia" class="btn-more">Xem đầy đủ</button>
+          </div>
+        </div>
+
+        <div class="sidebar-box">
+          <h3 class="section-title" style="font-size:14px"><span id="topscorers-title">Vua phá lưới</span></h3>
+          <table class="widget-table" id="bxh-vua-pha-luoi">
+            <thead>
+              <tr><th>Cầu thủ</th><th style="text-align: left; padding-left: 10px;">Đội bóng</th><th>Bàn</th></tr>
+            </thead>
+            <tbody id="topscorers-top"></tbody>
+            <tbody id="topscorers-more" style="display: none;"></tbody>
+          </table>
+          <div style="text-align:center; margin-top: 10px;">
+            <button id="btn-vpl" class="btn-more">Xem tất cả</button>
+          </div>
+        </div>
+      </aside>
+
+    </div>
+
+    <footer>
+      <p>&copy; 2026 Trang Tin Tức Bóng Đá</p>
+    </footer>
+
+  </div>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/pages/home.js"></script>
+</body>
+</html>

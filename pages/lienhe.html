@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Liên hệ - Tin tức bóng đá</title>
+  <link rel="stylesheet" href="../assets/css/unified-styles.css">
+  <link rel="stylesheet" href="../assets/css/pages/showcase.css">
+  <link rel="stylesheet" href="../assets/css/pages/info.css">
+</head>
+<body>
+
+  <div class="container">
+    <div class="banner">
+      <img src="../assets/img/anhbongda.png" alt="Banner bóng đá">
+    </div>
+
+    <div class="menu">
+      <a href="../index.html">Trang chủ</a>
+      <a href="cactrandauvuaqua.html">Các trận đấu vừa qua</a>
+      <a href="thongtinantuong.html">Thông tin ấn tượng</a>
+      <a href="trinhdienantuong.html">Trình diễn ấn tượng</a>
+      <a href="gioithieu.html">Giới thiệu</a>
+      <a class="active" href="lienhe.html">Liên hệ</a>
+    </div>
+
+    <div class="content-dark">
+      <h1 class="page-header-title">Liên Hệ</h1>
+      <p class="page-header-desc">Góp ý, báo lỗi hoặc hợp tác - hãy gửi cho chúng tôi</p>
+
+      <div class="contact-layout">
+        <div class="contact-info">
+          <div class="contact-info-item">
+            <div class="label">Email</div>
+            <div class="value">lienhe@tintucbongda.vn</div>
+          </div>
+          <div class="contact-info-item">
+            <div class="label">Hotline</div>
+            <div class="value">1900 1234</div>
+          </div>
+          <div class="contact-info-item">
+            <div class="label">Địa chỉ</div>
+            <div class="value">Vĩnh Long, Việt Nam</div>
+          </div>
+          <div class="contact-info-item">
+            <div class="label">Giờ làm việc</div>
+            <div class="value">8:00 - 22:00 (Thứ 2 - Chủ nhật)</div>
+          </div>
+        </div>
+
+        <form class="contact-form" id="contact-form">
+          <div class="form-row">
+            <label for="contact-name">Họ tên</label>
+            <input type="text" id="contact-name" name="name" required autocomplete="off">
+          </div>
+          <div class="form-row">
+            <label for="contact-email">Email</label>
+            <input type="email" id="contact-email" name="email" required autocomplete="off">
+          </div>
+          <div class="form-row">
+            <label for="contact-message">Nội dung</label>
+            <textarea id="contact-message" name="message" required></textarea>
+          </div>
+          <button type="submit" class="btn-more" style="margin-top:0;">Gửi liên hệ</button>
+          <div class="contact-form-msg" id="contact-form-msg">Cảm ơn bạn đã liên hệ! Đây là trang demo tĩnh nên nội dung chưa được gửi đi thật.</div>
+        </form>
+      </div>
+    </div>
+
+    <footer>
+      <p>&copy; 2026 Trang Tin Tức Bóng Đá</p>
+    </footer>
+  </div>
+
+  <script>
+    document.getElementById("contact-form").addEventListener("submit", function (e) {
+      e.preventDefault();
+      document.getElementById("contact-form-msg").classList.add("show");
+      this.reset();
+    });
+  </script>
+</body>
+</html>

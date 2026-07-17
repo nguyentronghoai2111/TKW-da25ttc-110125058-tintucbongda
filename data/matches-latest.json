@@ -1,0 +1,1675 @@
+[
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Mexico",
+  "away": "Nam Phi",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Hàn Quốc",
+  "away": "Séc",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Séc",
+  "away": "Nam Phi",
+  "score": "1 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Mexico",
+  "away": "Hàn Quốc",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Mexico",
+  "away": "Séc",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Nam Phi",
+  "away": "Hàn Quốc",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Canada",
+  "away": "Bosnia và Herzegovina",
+  "score": "1 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Thụy Sĩ",
+  "away": "Qatar",
+  "score": "1 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Thụy Sĩ",
+  "away": "Bosnia và Herzegovina",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Canada",
+  "away": "Qatar",
+  "score": "6 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Thụy Sĩ",
+  "away": "Canada",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Canada",
+  "away": "Nam Phi",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Brazil",
+  "away": "Nhật Bản",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (Paraguay thắng luân lưu 4-3) (FT)",
+  "home": "Đức",
+  "away": "Paraguay",
+  "score": "1 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (Morocco thắng luân lưu 3-2) (FT)",
+  "home": "Hà Lan",
+  "away": "Morocco",
+  "score": "1 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Na Uy",
+  "away": "Bờ Biển Ngà",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Pháp",
+  "away": "Thụy Điển",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Mexico",
+  "away": "Ecuador",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Anh",
+  "away": "CHDC Congo",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (hiệp phụ) (FT)",
+  "home": "Bỉ",
+  "away": "Senegal",
+  "score": "3 - 2"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Mỹ",
+  "away": "Bosnia và Herzegovina",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Tây Ban Nha",
+  "away": "Áo",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Bồ Đào Nha",
+  "away": "Croatia",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Thụy Sĩ",
+  "away": "Algeria",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (Ai Cập thắng luân lưu 4-2) (FT)",
+  "home": "Ai Cập",
+  "away": "Australia",
+  "score": "1 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (hiệp phụ) (FT)",
+  "home": "Argentina",
+  "away": "Cape Verde",
+  "score": "3 - 2"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Colombia",
+  "away": "Ghana",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Morocco",
+  "away": "Canada",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Pháp",
+  "away": "Paraguay",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Na Uy",
+  "away": "Brazil",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Anh",
+  "away": "Mexico",
+  "score": "3 - 2"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Tây Ban Nha",
+  "away": "Bồ Đào Nha",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Bỉ",
+  "away": "Mỹ",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Argentina",
+  "away": "Ai Cập",
+  "score": "3 - 2"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (Thụy Sĩ thắng luân lưu 4-3) (FT)",
+  "home": "Thụy Sĩ",
+  "away": "Colombia",
+  "score": "0 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Pháp",
+  "away": "Morocco",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Tây Ban Nha",
+  "away": "Bỉ",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (hiệp phụ) (FT)",
+  "home": "Anh",
+  "away": "Na Uy",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (hiệp phụ) (FT)",
+  "home": "Argentina",
+  "away": "Thụy Sĩ",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Tây Ban Nha",
+  "away": "Pháp",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "world-cup",
+  "competition": "World Cup 2026 (FT)",
+  "home": "Argentina",
+  "away": "Anh",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Atalanta",
+  "away": "Club Brugge",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Kairat Almaty",
+  "away": "Real Madrid",
+  "score": "0 - 5"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Atlético Madrid",
+  "away": "Frankfurt",
+  "score": "5 - 1"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Chelsea",
+  "away": "Benfica",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Inter",
+  "away": "Slavia Praha",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Galatasaray",
+  "away": "Liverpool",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Marseille",
+  "away": "Ajax",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Pafos",
+  "away": "Bayern München",
+  "score": "1 - 5"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Barcelona",
+  "away": "Olympiacos",
+  "score": "6 - 1"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Arsenal",
+  "away": "Atlético Madrid",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Leverkusen",
+  "away": "Paris Saint-Germain",
+  "score": "2 - 7"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Copenhagen",
+  "away": "Borussia Dortmund",
+  "score": "2 - 4"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "PSV Eindhoven",
+  "away": "Napoli",
+  "score": "6 - 2"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Villarreal",
+  "away": "Manchester City",
+  "score": "0 - 2"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Chelsea",
+  "away": "Ajax",
+  "score": "5 - 1"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Frankfurt",
+  "away": "Liverpool",
+  "score": "1 - 5"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Bayern München",
+  "away": "Club Brugge",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Real Madrid",
+  "away": "Juventus",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Slavia Praha",
+  "away": "Arsenal",
+  "score": "0 - 3"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Liverpool",
+  "away": "Real Madrid",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Bayern München",
+  "score": "1 - 2"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Tottenham",
+  "away": "Copenhagen",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Chelsea",
+  "away": "Barcelona",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Manchester City",
+  "away": "Leverkusen",
+  "score": "0 - 2"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Napoli",
+  "away": "Qarabağ",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Arsenal",
+  "away": "Bayern München",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Olympiacos",
+  "away": "Real Madrid",
+  "score": "3 - 4"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Tottenham",
+  "score": "5 - 3"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Atalanta",
+  "away": "Bayern München",
+  "score": "1 - 6"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Arsenal",
+  "away": "Leverkusen",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Chelsea",
+  "away": "Paris Saint-Germain",
+  "score": "0 - 3"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Manchester City",
+  "away": "Real Madrid",
+  "score": "1 - 2"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (FT)",
+  "home": "Barcelona",
+  "away": "Newcastle",
+  "score": "7 - 2"
+ },
+ {
+  "leagueId": "champions-league",
+  "competition": "Champions League (PSG thắng luân lưu 4-3) (FT)",
+  "home": "CHUNG KẾT: Paris Saint-Germain",
+  "away": "Arsenal",
+  "score": "1 - 1"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Arsenal",
+  "away": "Aston Villa",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Arsenal",
+  "away": "Bournemouth",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Arsenal",
+  "away": "Brentford",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Arsenal",
+  "away": "Chelsea",
+  "score": "5 - 0"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Arsenal",
+  "away": "Leeds United",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Arsenal",
+  "away": "Liverpool",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Arsenal",
+  "away": "Manchester City",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Arsenal",
+  "away": "Manchester United",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Arsenal",
+  "away": "Newcastle United",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Wolverhampton Wanderers",
+  "away": "Manchester City",
+  "score": "0 - 4"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "West Ham United",
+  "away": "Chelsea",
+  "score": "1 - 5"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Manchester City",
+  "away": "Aston Villa",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Manchester City",
+  "away": "Brentford",
+  "score": "5 - 1"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Manchester City",
+  "away": "Chelsea",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Manchester City",
+  "away": "Crystal Palace",
+  "score": "3 - 2"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Manchester City",
+  "away": "Liverpool",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Manchester City",
+  "away": "Manchester United",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Manchester City",
+  "away": "Newcastle United",
+  "score": "0 - 2"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Liverpool",
+  "away": "Arsenal",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Liverpool",
+  "away": "Aston Villa",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Liverpool",
+  "away": "Bournemouth",
+  "score": "4 - 2"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Liverpool",
+  "away": "Chelsea",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Liverpool",
+  "away": "Manchester City",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Liverpool",
+  "away": "Manchester United",
+  "score": "0 - 3"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Liverpool",
+  "away": "Nottingham Forest",
+  "score": "5 - 2"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Fulham",
+  "away": "Manchester City",
+  "score": "4 - 5"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Manchester United",
+  "away": "Burnley",
+  "score": "3 - 2"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (Mateta lập hat-trick) (FT)",
+  "home": "Crystal Palace",
+  "away": "Bournemouth",
+  "score": "3 - 3"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (Eze lập hat-trick derby Bắc London) (FT)",
+  "home": "Arsenal",
+  "away": "Tottenham Hotspur",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (Schade lập hat-trick) (FT)",
+  "home": "Brentford",
+  "away": "Bournemouth",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (Thiago lập hat-trick) (FT)",
+  "home": "Everton",
+  "away": "Brentford",
+  "score": "2 - 4"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (Palmer lập hat-trick) (FT)",
+  "home": "Wolverhampton Wanderers",
+  "away": "Chelsea",
+  "score": "1 - 3"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "West Ham United",
+  "away": "Leeds United",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (FT)",
+  "home": "Sunderland",
+  "away": "Chelsea",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "premier-league",
+  "competition": "Premier League (Arsenal vô địch) (FT)",
+  "home": "Arsenal",
+  "away": "Burnley",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Barcelona",
+  "away": "Alavés",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Barcelona",
+  "away": "Athletic Bilbao",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Barcelona",
+  "away": "Atlético Madrid",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Barcelona",
+  "away": "Getafe",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Barcelona",
+  "away": "Girona",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Barcelona",
+  "away": "Levante",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Barcelona",
+  "away": "Mallorca",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Barcelona",
+  "away": "Osasuna",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Barcelona",
+  "away": "Oviedo",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Barcelona",
+  "away": "Real Madrid",
+  "score": "6 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Barcelona",
+  "away": "Real Sociedad",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Real Madrid",
+  "away": "Atlético Madrid",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Real Madrid",
+  "away": "Celta Vigo",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Real Madrid",
+  "away": "Elche",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Real Madrid",
+  "away": "Espanyol",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Real Madrid",
+  "away": "Levante",
+  "score": "5 - 1"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Real Madrid",
+  "away": "Osasuna",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Real Madrid",
+  "away": "Rayo Vallecano",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Real Madrid",
+  "away": "Real Betis",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Villarreal",
+  "away": "Barcelona",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Villarreal",
+  "away": "Atlético Madrid",
+  "score": "0 - 2"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Villarreal",
+  "away": "Elche",
+  "score": "5 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Villarreal",
+  "away": "Levante",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (trận nhiều bàn nhất mùa) (FT)",
+  "home": "Real Betis",
+  "away": "Barcelona",
+  "score": "3 - 5"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Girona",
+  "away": "Levante",
+  "score": "0 - 4"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Barcelona",
+  "away": "Valencia",
+  "score": "6 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (El Clásico lượt đi) (FT)",
+  "home": "Real Madrid",
+  "away": "Barcelona",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (El Clásico lượt về, Barca vô địch) (FT)",
+  "home": "Barcelona",
+  "away": "Real Madrid",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Villarreal",
+  "away": "Girona",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Espanyol",
+  "away": "Atlético Madrid",
+  "score": "1 - 2"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Celta Vigo",
+  "away": "Barcelona",
+  "score": "2 - 4"
+ },
+ {
+  "leagueId": "la-liga",
+  "competition": "La Liga (FT)",
+  "home": "Sevilla",
+  "away": "Atlético Madrid",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Inter Milan",
+  "away": "Atalanta",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Inter Milan",
+  "away": "Bologna",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Inter Milan",
+  "away": "Cagliari",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Inter Milan",
+  "away": "Como",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Inter Milan",
+  "away": "Genoa",
+  "score": "3 - 2"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Inter Milan",
+  "away": "Hellas Verona",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Inter Milan",
+  "away": "Juventus",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Inter Milan",
+  "away": "Lazio",
+  "score": "0 - 1"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Inter Milan",
+  "away": "AC Milan",
+  "score": "6 - 2"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Inter Milan",
+  "away": "Napoli",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Inter Milan",
+  "away": "Parma",
+  "score": "5 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Napoli",
+  "away": "Atalanta",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Napoli",
+  "away": "Bologna",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Napoli",
+  "away": "Como",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Napoli",
+  "away": "Fiorentina",
+  "score": "2 - 2"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Napoli",
+  "away": "Genoa",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Napoli",
+  "away": "Lazio",
+  "score": "3 - 2"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Napoli",
+  "away": "AC Milan",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "AS Roma",
+  "away": "Atalanta",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "AS Roma",
+  "away": "Bologna",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "AS Roma",
+  "away": "Como",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "AS Roma",
+  "away": "Cremonese",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "AS Roma",
+  "away": "Fiorentina",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "AS Roma",
+  "away": "Inter Milan",
+  "score": "1 - 1"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "AS Roma",
+  "away": "Lazio",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "AS Roma",
+  "away": "AC Milan",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (trận thắng đậm nhất mùa) (FT)",
+  "home": "Como",
+  "away": "Torino",
+  "score": "6 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Sassuolo",
+  "away": "Inter Milan",
+  "score": "0 - 5"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (trận nhiều bàn nhất mùa) (FT)",
+  "home": "Inter Milan",
+  "away": "Pisa",
+  "score": "6 - 2"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (derby Milano) (FT)",
+  "home": "Inter Milan",
+  "away": "AC Milan",
+  "score": "0 - 1"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (Inter vô địch) (FT)",
+  "home": "Inter Milan",
+  "away": "Parma",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "serie-a",
+  "competition": "Serie A (FT)",
+  "home": "Como",
+  "away": "Cremonese",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayern Munich",
+  "away": "FC Augsburg",
+  "score": "1 - 2"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayern Munich",
+  "away": "Union Berlin",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayern Munich",
+  "away": "Werder Bremen",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayern Munich",
+  "away": "Borussia Dortmund",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayern Munich",
+  "away": "Eintracht Frankfurt",
+  "score": "3 - 2"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayern Munich",
+  "away": "SC Freiburg",
+  "score": "6 - 2"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayern Munich",
+  "away": "Hamburger SV",
+  "score": "5 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayern Munich",
+  "away": "1.FC Heidenheim",
+  "score": "5 - 1"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayern Munich",
+  "away": "TSG Hoffenheim",
+  "score": "6 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayern Munich",
+  "away": "1.FC Köln",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayern Munich",
+  "away": "Bayer Leverkusen",
+  "score": "4 - 1"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayern Munich",
+  "away": "Borussia Mönchengladbach",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (trận thắng đậm nhất mùa) (FT)",
+  "home": "Bayern Munich",
+  "away": "VfL Wolfsburg",
+  "score": "8 - 1"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (Bayern vô địch) (FT)",
+  "home": "Bayern Munich",
+  "away": "VfB Stuttgart",
+  "score": "4 - 2"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Borussia Dortmund",
+  "away": "FC Augsburg",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Borussia Dortmund",
+  "away": "Union Berlin",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Borussia Dortmund",
+  "away": "SC Freiburg",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Borussia Dortmund",
+  "away": "TSG Hoffenheim",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Borussia Dortmund",
+  "away": "1.FC Köln",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Borussia Dortmund",
+  "away": "Bayer Leverkusen",
+  "score": "0 - 1"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Borussia Dortmund",
+  "away": "Mainz 05",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Borussia Dortmund",
+  "away": "Borussia Mönchengladbach",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Borussia Dortmund",
+  "away": "Bayern Munich",
+  "score": "2 - 3"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Borussia Dortmund",
+  "away": "VfB Stuttgart",
+  "score": "3 - 3"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Borussia Dortmund",
+  "away": "VfL Wolfsburg",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (trận thắng sân khách đậm nhất mùa) (FT)",
+  "home": "Augsburg",
+  "away": "RB Leipzig",
+  "score": "0 - 6"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (trận nhiều bàn nhất mùa) (FT)",
+  "home": "Mönchengladbach",
+  "away": "Eintracht Frankfurt",
+  "score": "4 - 6"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "RB Leipzig",
+  "away": "1.FC Köln",
+  "score": "5 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayer Leverkusen",
+  "away": "Hamburger SV",
+  "score": "6 - 0"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "Bayer Leverkusen",
+  "away": "VfL Wolfsburg",
+  "score": "6 - 3"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "TSG Hoffenheim",
+  "away": "Mainz 05",
+  "score": "5 - 1"
+ },
+ {
+  "leagueId": "bundesliga",
+  "competition": "Bundesliga (FT)",
+  "home": "VfB Stuttgart",
+  "away": "Hamburger SV",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Angers",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Auxerre",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Brest",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Le Havre",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Lens",
+  "score": "2 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Lille",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Lyon",
+  "score": "1 - 2"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (trận thắng đậm derby) (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Marseille",
+  "score": "5 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Metz",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Monaco",
+  "score": "1 - 3"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Nantes",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Nice",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Paris FC",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Rennes",
+  "score": "5 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Marseille",
+  "away": "Angers",
+  "score": "2 - 2"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Marseille",
+  "away": "Auxerre",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Marseille",
+  "away": "Brest",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Marseille",
+  "away": "Le Havre",
+  "score": "6 - 2"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Marseille",
+  "away": "Lens",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Marseille",
+  "away": "Lille",
+  "score": "1 - 2"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Marseille",
+  "away": "Lorient",
+  "score": "4 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Marseille",
+  "away": "Lyon",
+  "score": "3 - 2"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Lens",
+  "away": "Angers",
+  "score": "5 - 1"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Lens",
+  "away": "Auxerre",
+  "score": "1 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Lens",
+  "away": "Brest",
+  "score": "3 - 1"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Lens",
+  "away": "Lorient",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Lens",
+  "away": "Lyon",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Lens",
+  "away": "Monaco",
+  "score": "3 - 0"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Lens",
+  "away": "Paris Saint-Germain",
+  "score": "2 - 1"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (trận thắng sân khách đậm nhất mùa) (FT)",
+  "home": "Lorient",
+  "away": "Lille",
+  "score": "1 - 7"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (FT)",
+  "home": "Toulouse",
+  "away": "Paris Saint-Germain",
+  "score": "3 - 6"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (trận nhiều bàn nhất mùa) (FT)",
+  "home": "Strasbourg",
+  "away": "Monaco",
+  "score": "5 - 4"
+ },
+ {
+  "leagueId": "ligue-1",
+  "competition": "Ligue 1 (PSG vô địch) (FT)",
+  "home": "Paris Saint-Germain",
+  "away": "Lens",
+  "score": "2 - 0"
+ }
+]

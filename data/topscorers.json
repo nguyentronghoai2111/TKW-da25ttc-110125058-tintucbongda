@@ -1,0 +1,308 @@
+{
+  "premier-league": [
+    {
+      "player": "E. Haaland",
+      "team": "Man City",
+      "goals": 27,
+      "assists": 10
+    },
+    {
+      "player": "Igor Thiago",
+      "team": "Brentford",
+      "goals": 22,
+      "assists": 8
+    },
+    {
+      "player": "A. Semenyo",
+      "team": "Bournemouth",
+      "goals": 17,
+      "assists": 5
+    },
+    {
+      "player": "Ollie Watkins",
+      "team": "Aston Villa",
+      "goals": 16,
+      "assists": 9
+    },
+    {
+      "player": "Cole Palmer",
+      "team": "Chelsea",
+      "goals": 15,
+      "assists": 6
+    },
+    {
+      "player": "M. Gibbs-White",
+      "team": "Nottingham",
+      "goals": 15,
+      "assists": 9
+    },
+    {
+      "player": "Bukayo Saka",
+      "team": "Arsenal",
+      "goals": 14,
+      "assists": 8
+    },
+    {
+      "player": "Nicolas Jackson",
+      "team": "Chelsea",
+      "goals": 14,
+      "assists": 8
+    },
+    {
+      "player": "M. Rashford",
+      "team": "Man United",
+      "goals": 13,
+      "assists": 3
+    }
+  ],
+  "la-liga": [
+    {
+      "player": "Kylian Mbappe",
+      "team": "Real Madrid",
+      "goals": 26,
+      "assists": 13
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Barcelona",
+      "goals": 21,
+      "assists": 11
+    },
+    {
+      "player": "Antoine Griezmann",
+      "team": "Atletico Madrid",
+      "goals": 17,
+      "assists": 6
+    },
+    {
+      "player": "Ante Budimir",
+      "team": "Osasuna",
+      "goals": 15,
+      "assists": 8
+    },
+    {
+      "player": "Alexander Sorloth",
+      "team": "Atletico Madrid",
+      "goals": 14,
+      "assists": 4
+    },
+    {
+      "player": "Ayoze Perez",
+      "team": "Villarreal",
+      "goals": 13,
+      "assists": 7
+    },
+    {
+      "player": "Vinicius Junior",
+      "team": "Real Madrid",
+      "goals": 13,
+      "assists": 3
+    },
+    {
+      "player": "Borja Iglesias",
+      "team": "Celta Vigo",
+      "goals": 11,
+      "assists": 7
+    }
+  ],
+  "serie-a": [
+    {
+      "player": "Lautaro Martinez",
+      "team": "Inter",
+      "goals": 24,
+      "assists": 12
+    },
+    {
+      "player": "Moise Kean",
+      "team": "Fiorentina",
+      "goals": 19,
+      "assists": 8
+    },
+    {
+      "player": "Ademola Lookman",
+      "team": "Atalanta",
+      "goals": 16,
+      "assists": 5
+    },
+    {
+      "player": "Dusan Vlahovic",
+      "team": "Juventus",
+      "goals": 15,
+      "assists": 8
+    },
+    {
+      "player": "Mateo Retegui",
+      "team": "Atalanta",
+      "goals": 15,
+      "assists": 5
+    },
+    {
+      "player": "Romelu Lukaku",
+      "team": "Napoli",
+      "goals": 14,
+      "assists": 8
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "AC Milan",
+      "goals": 13,
+      "assists": 7
+    },
+    {
+      "player": "Paulo Dybala",
+      "team": "Roma",
+      "goals": 12,
+      "assists": 6
+    }
+  ],
+  "bundesliga": [
+    {
+      "player": "Harry Kane",
+      "team": "Bayern Munich",
+      "goals": 30,
+      "assists": 15
+    },
+    {
+      "player": "Serhou Guirassy",
+      "team": "Dortmund",
+      "goals": 21,
+      "assists": 11
+    },
+    {
+      "player": "Patrik Schick",
+      "team": "Bayer Leverkusen",
+      "goals": 18,
+      "assists": 6
+    },
+    {
+      "player": "Omar Marmoush",
+      "team": "Eintracht Frankfurt",
+      "goals": 16,
+      "assists": 5
+    },
+    {
+      "player": "Loic Bade",
+      "team": "RB Leipzig",
+      "goals": 14,
+      "assists": 6
+    },
+    {
+      "player": "Jamal Musiala",
+      "team": "Bayern Munich",
+      "goals": 13,
+      "assists": 5
+    },
+    {
+      "player": "Deniz Undav",
+      "team": "Stuttgart",
+      "goals": 13,
+      "assists": 4
+    },
+    {
+      "player": "Tim Kleindienst",
+      "team": "Borussia M.Gladbach",
+      "goals": 12,
+      "assists": 2
+    }
+  ],
+  "ligue-1": [
+    {
+      "player": "Bradley Barcola",
+      "team": "PSG",
+      "goals": 18,
+      "assists": 5
+    },
+    {
+      "player": "Alexandre Lacazette",
+      "team": "Lyon",
+      "goals": 17,
+      "assists": 9
+    },
+    {
+      "player": "Mason Greenwood",
+      "team": "Marseille",
+      "goals": 16,
+      "assists": 8
+    },
+    {
+      "player": "Folarin Balogun",
+      "team": "Monaco",
+      "goals": 14,
+      "assists": 5
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Lille",
+      "goals": 13,
+      "assists": 8
+    },
+    {
+      "player": "Wissam Ben Yedder",
+      "team": "Monaco",
+      "goals": 12,
+      "assists": 2
+    },
+    {
+      "player": "Amine Gouiri",
+      "team": "Rennes",
+      "goals": 11,
+      "assists": 3
+    },
+    {
+      "player": "Ludovic Blas",
+      "team": "Nantes",
+      "goals": 10,
+      "assists": 4
+    }
+  ],
+  "v-league": [
+    {
+      "player": "Nguyen Xuan Son",
+      "team": "Nam Dinh",
+      "goals": 16,
+      "assists": 6
+    },
+    {
+      "player": "Rimario Gordon",
+      "team": "Cong An Ha Noi",
+      "goals": 14,
+      "assists": 4
+    },
+    {
+      "player": "Alan Grafite",
+      "team": "Binh Duong",
+      "goals": 13,
+      "assists": 8
+    },
+    {
+      "player": "Pedro Paulo",
+      "team": "Hanoi FC",
+      "goals": 12,
+      "assists": 3
+    },
+    {
+      "player": "Nguyen Tien Linh",
+      "team": "Binh Duong",
+      "goals": 11,
+      "assists": 7
+    },
+    {
+      "player": "Geovane Magno",
+      "team": "Thanh Hoa",
+      "goals": 10,
+      "assists": 2
+    },
+    {
+      "player": "Leo Artur",
+      "team": "Ha Tinh",
+      "goals": 9,
+      "assists": 3
+    },
+    {
+      "player": "Nguyen Van Toan",
+      "team": "Thanh Hoa",
+      "goals": 8,
+      "assists": 5
+    }
+  ]
+}

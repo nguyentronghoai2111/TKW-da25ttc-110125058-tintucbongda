@@ -1,0 +1,144 @@
+/* Dùng chung cho trang Giới thiệu & Liên hệ (mở rộng .content-dark) */
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+  max-width: 1200px;
+  margin: 0 auto 30px;
+}
+
+.info-card {
+  background-color: #2a2a2a;
+  border: 1px solid #333333;
+  border-radius: 6px;
+  padding: 20px;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.info-card:hover {
+  transform: translateY(-3px);
+  border-color: #c0392b;
+}
+
+.info-card-icon {
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+
+.info-card-title {
+  font-size: 15px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 6px;
+}
+
+.info-card-desc {
+  font-size: 13px;
+  color: #aaaaaa;
+  line-height: 1.6;
+}
+
+.info-text-block {
+  max-width: 800px;
+  margin: 0 auto 30px;
+  color: #cccccc;
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+.info-text-block p {
+  margin-bottom: 12px;
+}
+
+/* Trang Liên hệ */
+.contact-layout {
+  display: flex;
+  gap: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.contact-info {
+  flex: 1;
+  min-width: 240px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.contact-info-item {
+  background-color: #2a2a2a;
+  border: 1px solid #333333;
+  border-radius: 6px;
+  padding: 16px 18px;
+}
+
+.contact-info-item .label {
+  font-size: 11px;
+  font-weight: bold;
+  color: #c0392b;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+.contact-info-item .value {
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.contact-form {
+  flex: 2;
+  min-width: 280px;
+  background-color: #2a2a2a;
+  border: 1px solid #333333;
+  border-radius: 6px;
+  padding: 24px;
+}
+
+.contact-form .form-row {
+  margin-bottom: 16px;
+}
+
+.contact-form label {
+  display: block;
+  font-size: 13px;
+  color: #aaaaaa;
+  margin-bottom: 6px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  background-color: #1c1c1c;
+  border: 1px solid #3a3a3a;
+  color: #ffffff;
+  padding: 10px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-family: inherit;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: #c0392b;
+}
+
+.contact-form textarea {
+  resize: vertical;
+  min-height: 100px;
+}
+
+.contact-form-msg {
+  margin-top: 14px;
+  font-size: 13.5px;
+  color: #2ecc71;
+  display: none;
+}
+
+.contact-form-msg.show {
+  display: block;
+}

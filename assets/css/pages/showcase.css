@@ -1,0 +1,185 @@
+.content-dark {
+  padding: 30px 20px;
+}
+
+.page-header-title {
+  text-align: center;
+  font-size: 26px;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-bottom: 8px;
+}
+
+.page-header-desc {
+  text-align: center;
+  color: #888888;
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+.main-showcase-layout {
+  display: flex;
+  gap: 25px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.filter-buttons-vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 240px;
+  background-color: #2a2a2a;
+  padding: 20px;
+  border-radius: 6px;
+  border: 1px solid #333333;
+}
+
+.filter-buttons-vertical button {
+  background-color: #111111;
+  border: 1px solid #333333;
+  color: #dddddd;
+  padding: 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 13px;
+  text-align: left;
+  transition: 0.3s;
+}
+
+.filter-buttons-vertical button:hover,
+.filter-buttons-vertical button.active {
+  background-color: #c0392b;
+  color: white;
+  border-color: #c0392b;
+}
+
+.showcase-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+  flex-grow: 1;
+}
+
+.showcase-card {
+  background-color: #2a2a2a;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 1px solid #333333;
+  transition: 0.3s;
+}
+
+.showcase-card:hover {
+  border-color: #c0392b;
+  transform: translateY(-3px);
+}
+
+.video-thumbnail {
+  position: relative;
+  width: 100%;
+  height: 150px;
+  background-color: #000;
+}
+
+.play-btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 44px;
+  height: 44px;
+  background-color: #c0392b;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.play-btn::after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 6px 0 6px 10px;
+  border-color: transparent transparent transparent #ffffff;
+  margin-left: 3px;
+}
+
+.card-info {
+  padding: 15px;
+}
+
+.card-tag {
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #c0392b;
+  font-weight: bold;
+}
+
+.showcase-card .card-title {
+  font-size: 14px;
+  font-weight: bold;
+  color: #ffffff;
+  margin: 5px 0 10px 0;
+  height: 40px;
+  overflow: hidden;
+}
+
+.card-meta {
+  display: flex;
+  justify-content: space-between;
+  color: #888888;
+  font-size: 11px;
+}
+
+/* Lịch thi đấu sắp tới */
+.upcoming-list {
+  margin: 15px 0 25px;
+}
+
+.upcoming-row {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #333333;
+  padding: 12px 0;
+}
+
+.upcoming-row .competition {
+  font-size: 11px;
+  color: #888888;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 4px;
+}
+
+.upcoming-row .teams {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.upcoming-row .team-home {
+  flex: 1;
+  text-align: right;
+  padding-right: 15px;
+  font-weight: 500;
+}
+
+.upcoming-row .team-away {
+  flex: 1;
+  text-align: left;
+  padding-left: 15px;
+  font-weight: 500;
+}
+
+.upcoming-row .kickoff {
+  background: #333333;
+  color: #dddddd;
+  padding: 4px 14px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 12px;
+  white-space: nowrap;
+}
